@@ -2,8 +2,8 @@
 
 <img alt="Adam Boudj" src="banner.jpeg">
 
--   Lead Blockchain Dev
--   Head of Blockchain at [@polytrade-finance](https://github.com/polytrade-finance) and [@RetreebInc](https://github.com/RetreebInc)
+-   Lead Blockchain Dev [@polytrade-finance](https://github.com/polytrade-finance)
+-   Head of Blockchain at [@RetreebInc](https://github.com/RetreebInc)
 -   Co-authored [ERC-3643](https://eips.ethereum.org/EIPS/eip-3643)
 
 # 💫 Companies I've worked with
