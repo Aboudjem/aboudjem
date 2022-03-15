@@ -13,7 +13,7 @@
         <img alt="Retreeb"  height="25px"src="https://retreeb.io/img/header/retreeb-logo-full.svg"/>
     </a>&nbsp;
     <a href="https://polytrade.finance/" target="_blank">
-        <img alt="Polytrade.finance"  height="25px"src="https://polytrade.finance/_nuxt/img/logo.81c9c79.svg"/>
+        <img alt="Polytrade.finance"  height="25px"src="polytrade.svg"/>
     </a>&nbsp;
     <a href="https://fantom.foundation/" target="_blank">
         <img alt="Fantom foundation"  height="25px"src="fantom-logo-white.svg"/>
