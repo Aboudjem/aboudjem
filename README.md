@@ -10,19 +10,19 @@
 
 <p align="left">
     <a href="https://retreeb.io/" target="_blank">
-        <img alt="Retreeb"  height="25px"src="https://retreeb.io/img/header/retreeb-logo-full.svg"/>
+        <img alt="Retreeb" height="25px" src="logos/logo-retreeb.png"/>
     </a>&nbsp;
     <a href="https://polytrade.finance/" target="_blank">
-        <img alt="Polytrade.finance"  height="25px"src="polytrade.svg"/>
+        <img alt="Polytrade.finance" height="25px"src="logos/logo-polytrade.svg"/>
     </a>&nbsp;
     <a href="https://fantom.foundation/" target="_blank">
-        <img alt="Fantom foundation"  height="25px"src="fantom-logo-white.svg"/>
+        <img alt="Fantom foundation" height="25px"src="logos/logo-fantom.svg"/>
     </a>&nbsp;
     <a href="https://securrency.com/" target="_blank">
-        <img alt="Securrency"  height="25px"src="https://securrency.com/logo-white.svg"/>
+        <img alt="Securrency" height="25px"src="logos/logo-securrency.svg"/>
     </a>&nbsp;
     <a href="https://tokeny.com/" target="_blank">
-        <img alt="Tokeny"  height="25px"src="https://tokeny.com/wp-content/uploads/2019/06/Tokeny-Solutions-Logo-V2-1920x334.png"/>
+        <img alt="Tokeny" height="25px"src="logos/logo-tokeny.png"/>
     </a>&nbsp;
 </p>
 
