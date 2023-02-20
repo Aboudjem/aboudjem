@@ -1,6 +1,6 @@
 # Adam Boudj
 
-<img alt="Adam Boudj" src="banner.jpeg">
+<img alt="Adam Boudj" src="Adam BOUDJEMAA Twitter Banner.png">
 
 -   Lead Blockchain Dev [@polytrade-finance](https://github.com/polytrade-finance)
 -   Head of Blockchain at [@RetreebInc](https://github.com/RetreebInc)
