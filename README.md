@@ -1,52 +1,52 @@
-# Adam Boudj
+# Hi there <img src="./src/Hi.gif" width="29px">, This is <span style="color: #65f3ff;">Adam</span> <span style="color: #c51bbe;">Boudj</span>
 
-<img alt="Adam Boudj" src="Adam BOUDJEMAA Twitter Banner.png">
+<img alt="Adam Boudj" src="./src/Adam BOUDJEMAA Twitter Banner.png">
 
--   Lead Blockchain Dev [@polytrade-finance](https://github.com/polytrade-finance)
--   Head of Blockchain at [@RetreebInc](https://github.com/RetreebInc)
+# 👨🏻‍💻 About Me:
+
+I am a highly skilled blockchain developer with a strong passion for Solidity, smart contracts, and decentralized finance (DeFi). My expertise in these areas allows me to design and develop effective DeFi solutions, including the implementation of bulletproof smart contracts that are optimized for performance and security 🛡.
+
+I have a deep understanding of the Ethereum Virtual Machine (EVM) and advanced programming languages like Solidity and YUL, which I have used to work on a variety of blockchain projects 💻. I have a track record of successfully deploying over 300 smart contracts on different networks, including Ethereum, BSC, Fantom, Polygon, Heco, Fusion, and Avalanche.
+
+I am also an experienced advisor, developer, and engineer in the blockchain industry, and have helped to develop and implement effective blockchain strategies for multiple companies. My passion for blockchain and cryptocurrency extends to my writing 📝, and I have published articles on various subjects related to these topics. My contributions have been recognized with "Contributor of the Year" awards in the "Decentralization" and "Internet" categories 🏆.
+
+I am always looking to expand my activities in the DeFi and blockchain space 🚀 and am excited to connect with other professionals and enthusiasts 🤝. Feel free to reach out and connect with me on LinkedIn! 🔗
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+
+# 🗏 My Expereince:
+-   Lead Blockchain Dev [@polytrade-finance](https://github.com/polytrade-finance) <img alt="Polytrade.finance" height="25px" src="./src/logo-polytrade.svg"/>
+-   Head of Blockchain at [@RetreebInc](https://github.com/RetreebInc) <img alt="Retreeb" height="25px" src="./src/logo-retreeb.png"/>
 -   Co-authored [ERC-3643](https://eips.ethereum.org/EIPS/eip-3643)
+-   Blockchain Engineer [Securrency](https://securrency.com/) <img alt="Securrency" height="25px" src="./src/logo-securrency.svg"/>
+-   Blockchain Engineer [Fantom Foundation](https://fantom.foundation/)
+-   Blockchain Developer [Tokeny Solutions](https://tokeny.com/) <img alt="Tokeny" height="25px" src="./src/logo-tokeny.png"/>
+-   Blockchain Developer [Flexper](https://www.flexper.fr/) <img alt="Flexper" height="25px" src="./src/flexper.png"/>
+-   Blockchain Smart Contract Developer [Equisafe](https://www.equisafe.io/) <img alt="Equisafe" height="25px" src="./src/equisafe.png"/>
+-   Blockchain Smart Contract Developer [BTU Protocol](https://btu-protocol.com/) <img alt="BTU Protocol" height="25px" src="./src/btuprotocol.svg"/>
 
-# 💫 Companies I've worked with
-
-<p align="left">
-    <a href="https://retreeb.io/" target="_blank">
-        <img alt="Retreeb" height="25px" src="logos/logo-retreeb.png"/>
-    </a>&nbsp;
-    <a href="https://polytrade.finance/" target="_blank">
-        <img alt="Polytrade.finance" height="25px"src="logos/logo-polytrade.svg"/>
-    </a>&nbsp;
-    <a href="https://fantom.foundation/" target="_blank">
-        <img alt="Fantom foundation" height="25px"src="logos/logo-fantom.svg"/>
-    </a>&nbsp;
-    <a href="https://securrency.com/" target="_blank">
-        <img alt="Securrency" height="25px"src="logos/logo-securrency.svg"/>
-    </a>&nbsp;
-    <a href="https://tokeny.com/" target="_blank">
-        <img alt="Tokeny" height="25px"src="logos/logo-tokeny.png"/>
-    </a>&nbsp;
-</p>
-
-# ⚡Languages and tools
+# 🛠️ Technologies and Tools I use:
 
 <p align="left">
-    <a href="https://docs.soliditylang.org/en/v0.8.11/" target="_blank">
-        <img alt="Node" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/> 
-    </a>  
-    <a href="https://www.typescriptlang.org/" target="_blank">
-        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
-    </a>  
-    <a href="https://nodejs.org/en/" target="_blank">
-        <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> 
-    </a>   
+<a href="https://docs.soliditylang.org/en/v0.8.18/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+<a href="https://cplusplus.com/doc/tutorial/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="csharp" width="40" height="40"/> </a>
 </p>
 
-# 📈 Stats
+<img align="center" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
+
+# 📈 Stats:
 
 <p><img  src="https://github-readme-stats.vercel.app/api?username=Aboudjem&theme=dark&show_icons=true&locale=en" alt="Aboudjem" /></p>
 
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Aboudjem&theme=dark&show_icons=true&locale=en&layout=compact" alt="Aboudjem" /></p>
 
-# 🤝 Connect with me
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aboudjem&theme=tokyonight" alt="Aboudjem" />
+
+# ❤️ Let's get connected:
 
 <p align="left">
     <a href="https://twitter.com/AdamBoudj" target="_blank">
