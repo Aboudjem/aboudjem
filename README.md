@@ -2,28 +2,30 @@
 
 <img alt="Adam Boudj" src="./src/Adam BOUDJEMAA Twitter Banner.png">
 
-# 👨🏻‍💻 About Me:
+👨🏻‍💻 **About Me:**
 
-I am a highly skilled blockchain developer with a strong passion for Solidity, smart contracts, and decentralized finance (DeFi). My expertise in these areas allows me to design and develop effective DeFi solutions, including the implementation of bulletproof smart contracts that are optimized for performance and security 🛡.
+I am a **Head of Blockchain development** with a strong focus on **decentralized finance (DeFi)**. I co-authored **ERC3643** standard for Security Tokens and have successfully deployed over **300 smart contracts** on various networks, including Ethereum, BSC, Fantom, Polygon, Heco, Fusion, and Avalanche.
+<img src="./src/eth-gif.gif" alt="EThereum GIF">
+My expertise in **Solidity**, **Yul**, and the **Ethereum Virtual Machine (EVM)** allows me to design and develop secure and efficient DeFi solutions. I have also advised and developed blockchain strategies for multiple companies.
 
-I have a deep understanding of the Ethereum Virtual Machine (EVM) and advanced programming languages like Solidity and YUL, which I have used to work on a variety of blockchain projects 💻. I have a track record of successfully deploying over 300 smart contracts on different networks, including Ethereum, BSC, Fantom, Polygon, Heco, Fusion, and Avalanche.
+Passionate about the blockchain and cryptocurrency space, I have contributed to several publications and received **"Contributor of the Year"** awards in **"Decentralization"** and **"Internet"** categories on Hackernoon🏆. I am excited to connect with other professionals and enthusiasts in the DeFi and blockchain space.
 
-I am also an experienced advisor, developer, and engineer in the blockchain industry, and have helped to develop and implement effective blockchain strategies for multiple companies. My passion for blockchain and cryptocurrency extends to my writing 📝, and I have published articles on various subjects related to these topics. My contributions have been recognized with "Contributor of the Year" awards in the "Decentralization" and "Internet" categories 🏆.
+I am always looking to expand my activities in the DeFi and blockchain space 🚀 and am excited to connect with other professionals and enthusiasts 🤝.
 
-I am always looking to expand my activities in the DeFi and blockchain space 🚀 and am excited to connect with other professionals and enthusiasts 🤝. Feel free to reach out and connect with me on LinkedIn! 🔗
+Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/adamboudjemaa) or [Twitter](https://twitter.com/AdamBoudj) ! 🔗
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
-# 🗏 My Expereince:
+# 🗏 My Experiences:
 -   Lead Blockchain Dev [@polytrade-finance](https://github.com/polytrade-finance) <img alt="Polytrade.finance" height="25px" src="./src/logo-polytrade.svg"/>
 -   Head of Blockchain at [@RetreebInc](https://github.com/RetreebInc) <img alt="Retreeb" height="25px" src="./src/logo-retreeb.png"/>
 -   Co-authored [ERC-3643](https://eips.ethereum.org/EIPS/eip-3643)
--   Blockchain Engineer [Securrency](https://securrency.com/) <img alt="Securrency" height="25px" src="./src/logo-securrency.jpg"/>
+-   Blockchain Engineer [Securrency](https://securrency.com/) <img alt="Securrency" height="25px" src="./src/logo-securrency.svg"/>
 -   Blockchain Engineer [Fantom Foundation](https://fantom.foundation/)
 -   Blockchain Developer [Tokeny Solutions](https://tokeny.com/) <img alt="Tokeny" height="25px" src="./src/logo-tokeny.png"/>
--   Blockchain Developer [Flexper](https://www.flexper.fr/) <img alt="Flexper" height="25px" src="./src/flexper.jpg"/>
--   Blockchain Smart Contract Developer [Equisafe](https://www.equisafe.io/) <img alt="Equisafe" height="25px" src="./src/equisafe.jpg"/>
--   Blockchain Smart Contract Developer [BTU Protocol](https://btu-protocol.com/) <img alt="BTU Protocol" height="25px" src="./src/btuprotocol.jpg"/>
+-   Blockchain Developer [Flexper](https://www.flexper.fr/) <img alt="Flexper" height="25px" src="./src/flexper.png"/>
+-   Blockchain Smart Contract Developer [Equisafe](https://www.equisafe.io/) <img alt="Equisafe" height="25px" src="./src/equisafe.png"/>
+-   Blockchain Smart Contract Developer [BTU Protocol](https://btu-protocol.com/) <img alt="BTU Protocol" height="25px" src="./src/btuprotocol.svg"/>
 
 # 🛠️ Technologies and Tools I use:
 
