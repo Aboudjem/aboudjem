@@ -5,16 +5,18 @@
 👨🏻‍💻 **About Me:**
 
 I am a **Head of Blockchain development** with a strong focus on **decentralized finance (DeFi)**. I co-authored **ERC3643** standard for Security Tokens and have successfully deployed over **300 smart contracts** on various networks, including Ethereum, BSC, Fantom, Polygon, Heco, Fusion, and Avalanche.
-<img src="./src/eth-gif.gif" alt="EThereum GIF">
+
 My expertise in **Solidity**, **Yul**, and the **Ethereum Virtual Machine (EVM)** allows me to design and develop secure and efficient DeFi solutions. I have also advised and developed blockchain strategies for multiple companies.
 
+<img src="./src/eth-gif.gif" alt="EThereum GIF" width="200">
+
 Passionate about the blockchain and cryptocurrency space, I have contributed to several publications and received **"Contributor of the Year"** awards in **"Decentralization"** and **"Internet"** categories on Hackernoon🏆. I am excited to connect with other professionals and enthusiasts in the DeFi and blockchain space.
+
+<img src="./src/btc-gif.gif" alt="Bitcoin GIF" width="200">
 
 I am always looking to expand my activities in the DeFi and blockchain space 🚀 and am excited to connect with other professionals and enthusiasts 🤝.
 
 Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/adamboudjemaa) or [Twitter](https://twitter.com/AdamBoudj) ! 🔗
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 # 🗏 My Experiences:
 -   Lead Blockchain Dev [@polytrade-finance](https://github.com/polytrade-finance) <img alt="Polytrade.finance" height="25px" src="./src/logo-polytrade.svg"/>
@@ -40,7 +42,7 @@ Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.co
 
 <p align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
+<img src="./src/funny.gif" alt="Coder GIF" width="500">
 
 </p>
 
