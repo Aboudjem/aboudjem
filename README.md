@@ -7,13 +7,13 @@
 I am a **Head of Blockchain development** with a strong focus on **decentralized finance (DeFi)**. I co-authored **ERC3643** standard for Security Tokens and have successfully deployed over **300 smart contracts** on various networks, including Ethereum, BSC, Fantom, Polygon, Heco, Fusion, and Avalanche.
 
 My expertise in **Solidity**, **Yul**, and the **Ethereum Virtual Machine (EVM)** allows me to design and develop secure and efficient DeFi solutions. I have also advised and developed blockchain strategies for multiple companies.
-
+<p align="center">
 <img src="./src/eth-gif.gif" alt="EThereum GIF" width="200">
-
+</p>
 Passionate about the blockchain and cryptocurrency space, I have contributed to several publications and received **"Contributor of the Year"** awards in **"Decentralization"** and **"Internet"** categories on Hackernoon🏆. I am excited to connect with other professionals and enthusiasts in the DeFi and blockchain space.
-
+<p align="center">
 <img src="./src/btc-gif.gif" alt="Bitcoin GIF" width="200">
-
+</p>
 I am always looking to expand my activities in the DeFi and blockchain space 🚀 and am excited to connect with other professionals and enthusiasts 🤝.
 
 Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/adamboudjemaa) or [Twitter](https://twitter.com/AdamBoudj) ! 🔗
@@ -42,7 +42,7 @@ Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.co
 
 <p align="center">
 
-<img src="./src/funny.gif" alt="Coder GIF" width="500">
+<img src="./src/funny.gif" alt="Coder GIF" width="300">
 
 </p>
 
