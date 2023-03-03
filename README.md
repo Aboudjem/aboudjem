@@ -1,6 +1,6 @@
 # Hi there <img src="./src/Hi.gif" width="29px">, This is Adam Boudj
 
-<img alt="Adam Boudj" src="./src/Adam BOUDJEMAA Twitter Banner.png">
+<img alt="Adam Boudj" src="./src/banner-blockchain.png">
 
 👨🏻‍💻 **About Me:**
 
