@@ -16,7 +16,8 @@ Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.co
 # 🗏 My Experiences:
 -   Lead Blockchain Dev [@polytrade-finance](https://github.com/polytrade-finance) <img alt="Polytrade.finance" height="25px" src="./src/logo-polytrade.svg"/>
 -   Head of Blockchain at [@RetreebInc](https://github.com/RetreebInc) <img alt="Retreeb" height="25px" src="./src/logo-retreeb.png"/>
--   Co-authored [ERC-3643](https://eips.ethereum.org/EIPS/eip-3643)
+-   Co-author of the [ERC-3643](https://eips.ethereum.org/EIPS/eip-3643)
+-   Author of the [ERC-6960](https://eips.ethereum.org/EIPS/eip-6960)
 -   Blockchain Engineer [Securrency](https://securrency.com/) <img alt="Securrency" height="25px" src="./src/logo-securrency.svg"/>
 -   Blockchain Engineer [Fantom Foundation](https://fantom.foundation/)
 -   Blockchain Developer [Tokeny Solutions](https://tokeny.com/) <img alt="Tokeny" height="25px" src="./src/logo-tokeny.png"/>
