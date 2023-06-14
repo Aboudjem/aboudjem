@@ -4,7 +4,7 @@
 
 👨🏻‍💻 **About Me:**
 
-I am a **Head of Blockchain development** with a strong focus on **decentralized finance (DeFi)**. I co-authored **ERC3643** standard for Security Tokens and have successfully deployed over **300 smart contracts** on various networks, including Ethereum, BSC, Fantom, Polygon, Heco, Fusion, and Avalanche.
+I am a **Head of Blockchain development** with a strong focus on **decentralized finance (DeFi)**. I'm the Author of the **ERC6960** (Dual Layer Token) and co-authored **ERC3643** standard for Security Tokens and have successfully deployed over **300 smart contracts** on various networks, including Ethereum, BSC, Fantom, Polygon, Heco, Fusion, and Avalanche.
 
 
 <img src="./src/eth-gif.gif" alt="EThereum GIF" width="200">
