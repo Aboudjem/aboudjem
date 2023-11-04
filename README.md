@@ -21,14 +21,13 @@ Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.co
 - Blockchain Technical Lead at [Biconomy](https://github.com/bcnmy) <img alt="Biconomy Blockchain Infrastructure" height="25px" src="./src/logo-biconomy.png"/>
 - Lead Blockchain Developer at [Polytrade Finance](https://github.com/polytrade-finance) <img alt="Polytrade Finance DeFi Platform" height="25px" src="./src/logo-polytrade.svg"/>
 - Head of Blockchain at [RetreebInc](https://github.com/RetreebInc) <img alt="Retreeb Payment Solutions" height="25px" src="./src/logo-retreeb.png"/>
-- Co-author of [ERC-3643](https://eips.ethereum.org/EIPS/eip-3643) <img alt="Ethereum Improvement Proposals" height="25px" src="./src/eip-logo.svg"/> 
-- Author of [ERC-6960](https://eips.ethereum.org/EIPS/eip-6960) <img alt="Ethereum Token Standards" height="25px" src="./src/erc-logo.svg"/>
 - Blockchain Engineer at [Securrency](https://securrency.com/) <img alt="Securrency Regulatory Technology" height="25px" src="./src/logo-securrency.svg"/>
 - Blockchain Engineer at [Fantom Foundation](https://fantom.foundation/) <img alt="Fantom Foundation Blockchain Technology" height="25px" src="./src/logo-fantom.svg"/>
 - Blockchain Developer at [Tokeny Solutions](https://tokeny.com/) <img alt="Tokeny Solutions Tokenization Services" height="25px" src="./src/logo-tokeny.png"/>
 - Blockchain Developer at [Flexper](https://www.flexper.fr/) <img alt="Flexper Blockchain Development" height="25px" src="./src/flexper.png"/>
 - Smart Contract Developer at [Equisafe](https://www.equisafe.io/) <img alt="Equisafe Investment Platform" height="25px" src="./src/equisafe.png"/>
 - Smart Contract Developer at [BTU Protocol](https://btu-protocol.com/) <img alt="BTU Protocol Booking System" height="25px" src="./src/btuprotocol.svg"/>
+
 # 🛠️ Technologies and Tools I use:
 
 <p align="left">
