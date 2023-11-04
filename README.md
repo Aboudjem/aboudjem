@@ -21,7 +21,7 @@ Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.co
 - Blockchain Technical Lead at [Biconomy](https://github.com/bcnmy) <img alt="Biconomy Blockchain Infrastructure" height="25px" src="./src/logo-biconomy.png"/>
 - Lead Blockchain Developer at [Polytrade Finance](https://github.com/polytrade-finance) <img alt="Polytrade Finance DeFi Platform" height="25px" src="./src/logo-polytrade.svg"/>
 - Head of Blockchain at [RetreebInc](https://github.com/RetreebInc) <img alt="Retreeb Payment Solutions" height="25px" src="./src/logo-retreeb.png"/>
-- Blockchain Engineer at [Securrency](https://securrency.com/) <img alt="Securrency Regulatory Technology" height="25px" src="./src/securrency-logo"/>
+- Blockchain Engineer at [Securrency](https://securrency.com/) <img alt="Securrency Regulatory Technology" height="25px" src="./src/logo-securrency"/>
 - Blockchain Engineer at [Fantom Foundation](https://fantom.foundation/) <img alt="Fantom Foundation Blockchain Technology" height="25px" src="./src/logo-fantom.svg"/>
 - Blockchain Developer at [Tokeny Solutions](https://tokeny.com/) <img alt="Tokeny Solutions Tokenization Services" height="25px" src="./src/logo-tokeny.png"/>
 - Blockchain Developer at [Flexper](https://www.flexper.fr/) <img alt="Flexper Blockchain Development" height="25px" src="./src/flexper.png"/>
