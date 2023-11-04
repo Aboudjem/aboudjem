@@ -1,4 +1,4 @@
-# Hi there <img src="./src/Hi.gif" width="29px">, This is Adam Boudj
+# Hi there👋, This is Adam Boudjemaa
 
 <img alt="Adam Boudj" src="./src/banner-blockchain.png">
 
