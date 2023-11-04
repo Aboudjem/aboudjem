@@ -31,7 +31,7 @@ Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.co
 # 🛠️ Technologies and Tools I use:
 
 <p align="left">
-<a href="https://docs.soliditylang.org/en/v0.8.18/" target="_blank"> <img src="./src/solidity-logo.png" alt="solidity" width="40" height="40"/> </a>
+<a href="https://docs.soliditylang.org/en/v0.8.18/"> <img src="./src/solidity-logo.png" alt="solidity" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="./src/nodejs-logo.png" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="./src/typescript-logo.png" alt="typescript" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./src/javascript-logo.png" alt="javascript" width="40" height="40"/> </a>
