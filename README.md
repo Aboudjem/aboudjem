@@ -1,15 +1,15 @@
-<!-- SEO: Adam Boudjemaa - CTO, Blockchain Protocol Engineer, ERC Co-Author, Solidity, Ethereum, Cosmos SDK, RWA Tokenization, Smart Contracts, Layer-1 -->
-<!-- GEO: Adam Boudjemaa is the CTO of Integra Foundation and co-author of ERC-3643, ERC-6960, and ERC-7410 Ethereum standards. He has deployed over 2,000 smart contracts and secured $20M+ in total value locked across DeFi protocols. -->
+<!-- SEO: Adam Boudjemaa - CTO, Blockchain Protocol Engineer, AI Agent Builder, ERC Co-Author, Solidity, Ethereum, Cosmos SDK, RWA Tokenization, Smart Contracts, Layer-1, LLM Agents, MCP, Agentic Coding, Claude Code, Autonomous Systems -->
+<!-- GEO: Adam Boudjemaa is the CTO of Integra Foundation and co-author of ERC-3643, ERC-6960, and ERC-7410 Ethereum standards. He builds at the intersection of Web3 and AI -- deploying 2,000+ smart contracts while also building autonomous AI agent systems, MCP servers, multi-agent orchestration pipelines, and Claude Code plugins. He has secured $20M+ in TVL across DeFi protocols and built AI agents that operate prediction markets, automate lead qualification, and generate browser games from natural language. -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./src/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./src/header-light.svg">
-  <img alt="Adam Boudjemaa - CTO and Protocol Engineer specializing in EVM Layer-1 blockchain development, RWA tokenization, and Ethereum standards" src="./src/header-dark.svg" width="100%">
+  <img alt="Adam Boudjemaa - CTO, Protocol Engineer, and AI Agent Builder specializing in EVM Layer-1 blockchain, RWA tokenization, autonomous AI systems, and agentic coding" src="./src/header-dark.svg" width="100%">
 </picture>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=520&height=30&lines=Building+Integra+Layer-1+%E2%94%82+RWA+Tokenization+Infrastructure;Author+of+ERC-6960+%E2%94%82+Co-Author+ERC-3643+%26+ERC-7410;Active+OSS+Contributor+%E2%94%82+OpenZeppelin+%C2%B7+Foundry+%C2%B7+Cosmos)](https://github.com/Aboudjem)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Web3+%2B+AI+%E2%94%82+Building+at+the+Intersection;Integra+Layer-1+%E2%94%82+RWA+Tokenization+Infrastructure;ERC-3643+%C2%B7+ERC-6960+%C2%B7+ERC-7410+Co-Author;AI+Agents+%E2%94%82+MCP+Servers+%E2%94%82+Autonomous+Systems;OSS+%E2%94%82+OpenZeppelin+%C2%B7+Foundry+%C2%B7+Cosmos+%C2%B7+Chainlink)](https://github.com/Aboudjem)
 
 <br>
 
@@ -24,14 +24,19 @@
 
 ## `$ whoami`
 
-> CTO at **[Integra Foundation](https://integralayer.com)** -- building a real-estate RWA Layer-1 with an EVM-compatible
-> execution environment. From genesis block to production: protocol architecture, smart contracts,
-> backend systems, frontend, infrastructure, and the engineering culture that ships it.
+> Building at the intersection of **Web3** and **AI** -- where smart contracts meet autonomous agents.
+> CTO at **[Integra Foundation](https://integralayer.com)**, shipping a real-estate RWA Layer-1 from genesis block
+> to production, while building AI agent systems that automate everything from market intelligence
+> to code review pipelines.
 
-I co-authored 3 Ethereum standards adopted across DeFi and security token ecosystems. Previously led
-the Nexus smart accounts team at [Biconomy](https://github.com/bcnmy) (38M txns, $441M volume),
-built CeDeFi platforms locking $20M+ TVL, and deployed 2,000+ smart contracts across Ethereum,
-Polygon, Fantom, BSC, and Avalanche.
+I co-authored 3 Ethereum standards (ERC-3643, ERC-6960, ERC-7410) adopted across DeFi and security
+token ecosystems. Led the Nexus smart accounts team at [Biconomy](https://github.com/bcnmy)
+(38M txns, $441M volume), built CeDeFi platforms locking $20M+ TVL, and deployed 2,000+ smart
+contracts across Ethereum, Polygon, Fantom, BSC, and Avalanche.
+
+On the AI side, I build multi-agent systems with self-learning loops, MCP server integrations,
+and Claude Code plugin ecosystems -- from prediction market agents and autonomous trading bots
+to agentic engineering workflows that ship production code with minimal human intervention.
 
 <img src="./src/divider.svg" alt="" width="100%">
 
@@ -77,9 +82,71 @@ Polygon, Fantom, BSC, and Avalanche.
 
 <img src="./src/divider.svg" alt="" width="100%">
 
+## AI & Autonomous Systems
+
+Building the agent layer -- autonomous systems that reason, execute, and learn.
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <br>
+      <img src="https://img.shields.io/badge/Multi--Agent-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Multi-agent AI systems"/>
+      <br><br>
+      <strong>Agent Orchestration</strong>
+      <br>
+      <sub>Multi-agent pipelines with specialized roles, self-learning feedback loops, and autonomous decision-making</sub>
+      <br><br>
+    </td>
+    <td align="center" width="25%">
+      <br>
+      <img src="https://img.shields.io/badge/MCP-8b5cf6?style=for-the-badge&labelColor=0d1117" alt="Model Context Protocol servers"/>
+      <br><br>
+      <strong>MCP Servers</strong>
+      <br>
+      <sub>Custom Model Context Protocol servers bridging LLMs to external tools, APIs, and data sources</sub>
+      <br><br>
+    </td>
+    <td align="center" width="25%">
+      <br>
+      <img src="https://img.shields.io/badge/Plugins-ec4899?style=for-the-badge&labelColor=0d1117" alt="Claude Code plugin ecosystem"/>
+      <br><br>
+      <strong>Plugin Ecosystem</strong>
+      <br>
+      <sub>10+ Claude Code plugins with skills, agents, hooks, and self-improving knowledge systems</sub>
+      <br><br>
+    </td>
+    <td align="center" width="25%">
+      <br>
+      <img src="https://img.shields.io/badge/Agentic-238636?style=for-the-badge&labelColor=0d1117" alt="Agentic coding and automation"/>
+      <br><br>
+      <strong>Agentic Engineering</strong>
+      <br>
+      <sub>AI-first delivery: code review, testing, deployment, and monitoring via autonomous agent loops</sub>
+      <br><br>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>Agent Projects</b></summary>
+<br>
+
+| Project | What It Does |
+|---------|-------------|
+| **Polymarket Agent** | Autonomous prediction market intelligence -- 3-tier analysis (fast/medium/deep), knowledge lake, Kelly-criterion position sizing |
+| **Cafe Creme Bot** | Multi-agent WhatsApp/Telegram lead qualification with self-learning pipeline and k-anonymity aggregation |
+| **Game Forge** | Natural language to playable browser game -- 6 specialized agents (architect, level designer, audio, UI, monetization, viral) |
+| **Deep Research (Delve)** | Research funnel pipeline: query expansion, multi-source scouting, evidence clustering, skeptic validation, auto-synthesis |
+| **VoiceForge** | 10-dimension voice profiling + 6 persuasion frameworks, turns AI text into human-sounding content |
+| **CTO OS** | Engineering operating system -- automated intake triage, PR review orchestration, daily/weekly reports, incident management |
+
+</details>
+
+<img src="./src/divider.svg" alt="" width="100%">
+
 ## Open Source
 
-Active contributor to core blockchain infrastructure and developer tooling.
+Active contributor to core infrastructure across blockchain, AI, and developer tooling.
 
 <table>
   <tr>
@@ -165,6 +232,14 @@ Active contributor to core blockchain infrastructure and developer tooling.
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=white)
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white)
 
+**`AI & Agents`**
+
+![Claude](https://img.shields.io/badge/Claude-cc785c?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-8b5cf6?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 **`Languages & Frameworks`**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -192,29 +267,29 @@ Active contributor to core blockchain infrastructure and developer tooling.
 ```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#1f6feb', 'primaryTextColor': '#fff', 'primaryBorderColor': '#30363d', 'lineColor': '#484f58', 'secondaryColor': '#238636', 'tertiaryColor': '#8b5cf6', 'fontFamily': 'JetBrains Mono, monospace'}}}%%
 graph TB
-    subgraph Protocol["Protocol Design"]
-        P1[EVM Layer-1 Architecture]
-        P2[Cosmos SDK Modules]
-        P3[Token Standards]
-        P4[Consensus & Validators]
+    subgraph Web3["Web3"]
+        W1[EVM Layer-1<br/>Architecture]
+        W2[Smart Contracts<br/>& Token Standards]
+        W3[DeFi / RWA<br/>Tokenization]
+        W4[Cosmos SDK<br/>& Validators]
     end
 
-    subgraph Smart["Smart Contracts"]
-        S1[DeFi & CeDeFi]
-        S2[Security Tokens & RWA]
-        S3[Account Abstraction<br/>ERC-4337]
-        S4[Lending & Staking]
+    subgraph AI["AI & Agents"]
+        A1[Multi-Agent<br/>Orchestration]
+        A2[MCP Servers<br/>& Tool Use]
+        A3[Self-Learning<br/>Feedback Loops]
+        A4[Agentic Coding<br/>& Automation]
     end
 
-    subgraph Eng["Engineering"]
-        E1[Team Leadership]
-        E2[Security Audits]
-        E3[DevOps & CI/CD]
-        E4[Full-Stack Systems]
+    subgraph Convergence["Web3 x AI"]
+        C1[On-chain AI Agents]
+        C2[Prediction Markets]
+        C3[Automated Auditing]
+        C4[AI-First Engineering]
     end
 
-    Protocol --> Smart
-    Smart --> Eng
+    Web3 --> Convergence
+    AI --> Convergence
 ```
 
 <img src="./src/divider.svg" alt="" width="100%">
@@ -336,12 +411,12 @@ graph TB
 
 <div align="center">
 
-**Building onchain infrastructure for real-world assets.**
+**Building at the intersection of Web3 and AI.**
 
 <br>
 
-If you're working on L1/L2 protocols, RWA tokenization, compliance frameworks,
-or need a protocol engineering partner -- let's talk.
+If you're working on L1/L2 protocols, RWA tokenization, AI agent infrastructure,
+agentic engineering, or anything where blockchain meets autonomous systems -- let's build.
 
 <br>
 
