@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 900 320" width="900" height="320" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 900 350" width="900" height="350" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
@@ -12,17 +12,25 @@
           to { opacity: 1; transform: translateY(0); }
         }
         @keyframes pulse {
-          0%, 100% { opacity: 0.4; }
-          50% { opacity: 0.7; }
+          0%, 100% { opacity: 0.3; transform: scale(1); }
+          50% { opacity: 0.6; transform: scale(1.05); }
         }
         @keyframes float {
           0%, 100% { transform: translateY(0px); }
-          50% { transform: translateY(-8px); }
+          50% { transform: translateY(-12px); }
+        }
+        @keyframes glow {
+          0%, 100% { box-shadow: 0 0 8px rgba(9, 105, 218, 0.2); }
+          50% { box-shadow: 0 0 20px rgba(130, 80, 223, 0.3); }
+        }
+        @keyframes borderGlow {
+          0%, 100% { border-color: rgba(9, 105, 218, 0.2); }
+          50% { border-color: rgba(130, 80, 223, 0.4); }
         }
         .card {
           width: 100%;
-          height: 320px;
-          background: linear-gradient(135deg, #ffffff 0%, #f6f8fa 40%, #eef2f7 70%, #ffffff 100%);
+          height: 350px;
+          background: linear-gradient(135deg, #ffffff 0%, #f6f8fa 30%, #eef2f7 60%, #ffffff 100%);
           display: flex;
           flex-direction: column;
           align-items: center;
@@ -31,117 +39,131 @@
           overflow: hidden;
           font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
         }
-        .card::before {
-          content: '';
+        .grid {
           position: absolute;
-          top: -50%;
-          left: -50%;
-          width: 200%;
-          height: 200%;
-          background: radial-gradient(ellipse at 30% 50%, rgba(31, 111, 235, 0.06) 0%, transparent 50%),
-                      radial-gradient(ellipse at 70% 50%, rgba(139, 92, 246, 0.04) 0%, transparent 50%);
-          animation: pulse 6s ease-in-out infinite;
+          top: 0; left: 0; right: 0; bottom: 0;
+          background-image:
+            linear-gradient(rgba(9, 105, 218, 0.03) 1px, transparent 1px),
+            linear-gradient(90deg, rgba(9, 105, 218, 0.03) 1px, transparent 1px);
+          background-size: 40px 40px;
+          z-index: 0;
+        }
+        .orb {
+          position: absolute;
+          border-radius: 50%;
+          filter: blur(80px);
+          z-index: 0;
+        }
+        .orb-1 {
+          width: 250px; height: 250px;
+          background: rgba(9, 105, 218, 0.06);
+          top: -60px; right: -40px;
+          animation: float 8s ease-in-out infinite, pulse 6s ease-in-out infinite;
+        }
+        .orb-2 {
+          width: 200px; height: 200px;
+          background: rgba(130, 80, 223, 0.05);
+          bottom: -40px; left: -30px;
+          animation: float 10s ease-in-out infinite 2s, pulse 8s ease-in-out infinite 1s;
+        }
+        .orb-3 {
+          width: 150px; height: 150px;
+          background: rgba(191, 57, 137, 0.03);
+          top: 40%; left: 60%;
+          animation: float 12s ease-in-out infinite 4s;
         }
         .name {
-          font-size: 3.2em;
+          font-size: 3.4em;
           font-weight: 800;
           letter-spacing: -0.02em;
-          background: linear-gradient(135deg, #0969da, #8250df, #bf3989, #0969da);
-          background-size: 300% 300%;
+          background: linear-gradient(135deg, #0969da, #8250df, #bf3989, #da3633, #0969da);
+          background-size: 400% 400%;
           -webkit-background-clip: text;
           -webkit-text-fill-color: transparent;
-          animation: gradientShift 8s ease infinite, fadeInUp 1s ease-out;
+          animation: gradientShift 6s ease infinite, fadeInUp 1s ease-out;
           position: relative;
           z-index: 1;
-          margin: 0;
-          padding: 0;
+          margin: 0; padding: 0;
         }
         .title {
-          font-size: 1.15em;
+          font-size: 1.1em;
           color: #57606a;
-          margin-top: 12px;
-          letter-spacing: 0.15em;
+          margin-top: 10px;
+          letter-spacing: 0.2em;
           text-transform: uppercase;
           animation: fadeInUp 1s ease-out 0.3s both;
           position: relative;
           z-index: 1;
         }
+        .title span {
+          color: #0969da;
+        }
         .divider {
-          width: 80px;
-          height: 3px;
-          background: linear-gradient(90deg, #0969da, #8250df);
+          width: 80px; height: 3px;
+          background: linear-gradient(90deg, #0969da, #8250df, #bf3989);
           border-radius: 2px;
-          margin-top: 16px;
-          animation: fadeInUp 1s ease-out 0.5s both;
+          margin-top: 14px;
+          animation: fadeInUp 1s ease-out 0.5s both, glow 3s ease-in-out infinite;
           position: relative;
           z-index: 1;
         }
         .stats-row {
           display: flex;
-          gap: 32px;
+          gap: 16px;
           margin-top: 20px;
           animation: fadeInUp 1s ease-out 0.7s both;
           position: relative;
           z-index: 1;
         }
-        .stat {
+        .stat-card {
           text-align: center;
+          padding: 10px 18px;
+          border: 1px solid rgba(9, 105, 218, 0.12);
+          border-radius: 10px;
+          background: rgba(255, 255, 255, 0.7);
+          backdrop-filter: blur(10px);
+          animation: borderGlow 4s ease-in-out infinite;
         }
+        .stat-card:nth-child(2) { animation-delay: 1s; }
+        .stat-card:nth-child(3) { animation-delay: 2s; }
+        .stat-card:nth-child(4) { animation-delay: 3s; }
         .stat-value {
-          font-size: 1.3em;
+          font-size: 1.4em;
           font-weight: 700;
-          color: #0969da;
+          background: linear-gradient(135deg, #0969da, #8250df);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
         }
         .stat-label {
-          font-size: 0.7em;
+          font-size: 0.65em;
           color: #8b949e;
           text-transform: uppercase;
           letter-spacing: 0.1em;
           margin-top: 2px;
         }
-        .orb {
-          position: absolute;
-          border-radius: 50%;
-          filter: blur(60px);
-          z-index: 0;
-        }
-        .orb-1 {
-          width: 200px;
-          height: 200px;
-          background: rgba(31, 111, 235, 0.05);
-          top: -40px;
-          right: -30px;
-          animation: float 8s ease-in-out infinite;
-        }
-        .orb-2 {
-          width: 150px;
-          height: 150px;
-          background: rgba(139, 92, 246, 0.04);
-          bottom: -20px;
-          left: -20px;
-          animation: float 10s ease-in-out infinite 2s;
-        }
       </style>
       <div class="card">
+        <div class="grid"></div>
         <div class="orb orb-1"></div>
         <div class="orb orb-2"></div>
+        <div class="orb orb-3"></div>
         <div class="name">Adam Boudjemaa</div>
-        <div class="title">Web3 &amp; AI &nbsp;|&nbsp; Protocol Engineer &amp; Agent Builder</div>
+        <div class="title"><span>Web3</span> &amp; <span>AI</span> &nbsp;&#x2022;&nbsp; Protocol Engineer &amp; Agent Builder</div>
         <div class="divider"></div>
         <div class="stats-row">
-          <div class="stat">
+          <div class="stat-card">
             <div class="stat-value">2,000+</div>
             <div class="stat-label">Contracts</div>
           </div>
-          <div class="stat">
+          <div class="stat-card">
             <div class="stat-value">$20M+</div>
             <div class="stat-label">TVL Secured</div>
           </div>
-          <div class="stat">
+          <div class="stat-card">
             <div class="stat-value">38M+</div>
             <div class="stat-label">Transactions</div>
           </div>
-          <div class="stat">
+          <div class="stat-card">
             <div class="stat-value">3</div>
             <div class="stat-label">ERC Standards</div>
           </div>
