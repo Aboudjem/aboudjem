@@ -1,0 +1,152 @@
+<svg fill="none" viewBox="0 0 900 320" width="900" height="320" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes gradientShift {
+          0% { background-position: 0% 50%; }
+          50% { background-position: 100% 50%; }
+          100% { background-position: 0% 50%; }
+        }
+        @keyframes fadeInUp {
+          from { opacity: 0; transform: translateY(30px); }
+          to { opacity: 1; transform: translateY(0); }
+        }
+        @keyframes pulse {
+          0%, 100% { opacity: 0.4; }
+          50% { opacity: 0.7; }
+        }
+        @keyframes float {
+          0%, 100% { transform: translateY(0px); }
+          50% { transform: translateY(-8px); }
+        }
+        .card {
+          width: 100%;
+          height: 320px;
+          background: linear-gradient(135deg, #ffffff 0%, #f6f8fa 40%, #eef2f7 70%, #ffffff 100%);
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          position: relative;
+          overflow: hidden;
+          font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+        }
+        .card::before {
+          content: '';
+          position: absolute;
+          top: -50%;
+          left: -50%;
+          width: 200%;
+          height: 200%;
+          background: radial-gradient(ellipse at 30% 50%, rgba(31, 111, 235, 0.06) 0%, transparent 50%),
+                      radial-gradient(ellipse at 70% 50%, rgba(139, 92, 246, 0.04) 0%, transparent 50%);
+          animation: pulse 6s ease-in-out infinite;
+        }
+        .name {
+          font-size: 3.2em;
+          font-weight: 800;
+          letter-spacing: -0.02em;
+          background: linear-gradient(135deg, #0969da, #8250df, #bf3989, #0969da);
+          background-size: 300% 300%;
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          animation: gradientShift 8s ease infinite, fadeInUp 1s ease-out;
+          position: relative;
+          z-index: 1;
+          margin: 0;
+          padding: 0;
+        }
+        .title {
+          font-size: 1.15em;
+          color: #57606a;
+          margin-top: 12px;
+          letter-spacing: 0.15em;
+          text-transform: uppercase;
+          animation: fadeInUp 1s ease-out 0.3s both;
+          position: relative;
+          z-index: 1;
+        }
+        .divider {
+          width: 80px;
+          height: 3px;
+          background: linear-gradient(90deg, #0969da, #8250df);
+          border-radius: 2px;
+          margin-top: 16px;
+          animation: fadeInUp 1s ease-out 0.5s both;
+          position: relative;
+          z-index: 1;
+        }
+        .stats-row {
+          display: flex;
+          gap: 32px;
+          margin-top: 20px;
+          animation: fadeInUp 1s ease-out 0.7s both;
+          position: relative;
+          z-index: 1;
+        }
+        .stat {
+          text-align: center;
+        }
+        .stat-value {
+          font-size: 1.3em;
+          font-weight: 700;
+          color: #0969da;
+        }
+        .stat-label {
+          font-size: 0.7em;
+          color: #8b949e;
+          text-transform: uppercase;
+          letter-spacing: 0.1em;
+          margin-top: 2px;
+        }
+        .orb {
+          position: absolute;
+          border-radius: 50%;
+          filter: blur(60px);
+          z-index: 0;
+        }
+        .orb-1 {
+          width: 200px;
+          height: 200px;
+          background: rgba(31, 111, 235, 0.05);
+          top: -40px;
+          right: -30px;
+          animation: float 8s ease-in-out infinite;
+        }
+        .orb-2 {
+          width: 150px;
+          height: 150px;
+          background: rgba(139, 92, 246, 0.04);
+          bottom: -20px;
+          left: -20px;
+          animation: float 10s ease-in-out infinite 2s;
+        }
+      </style>
+      <div class="card">
+        <div class="orb orb-1"></div>
+        <div class="orb orb-2"></div>
+        <div class="name">Adam Boudjemaa</div>
+        <div class="title">CTO &amp; Protocol Engineer</div>
+        <div class="divider"></div>
+        <div class="stats-row">
+          <div class="stat">
+            <div class="stat-value">2,000+</div>
+            <div class="stat-label">Contracts</div>
+          </div>
+          <div class="stat">
+            <div class="stat-value">$20M+</div>
+            <div class="stat-label">TVL Secured</div>
+          </div>
+          <div class="stat">
+            <div class="stat-value">38M+</div>
+            <div class="stat-label">Transactions</div>
+          </div>
+          <div class="stat">
+            <div class="stat-value">3</div>
+            <div class="stat-label">ERC Standards</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
