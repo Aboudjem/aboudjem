@@ -38,7 +38,7 @@
 
 </div>
 
-<img src="./src/divider.svg" alt="" width="100%">
+---
 
 <div align="center">
   <h2><code>$ whoami</code></h2>
@@ -62,7 +62,7 @@ On the AI side, I build **multi-agent systems** with self-learning loops, **MCP 
 and **Claude Code plugin ecosystems** -- from prediction market agents and autonomous trading bots
 to agentic engineering workflows that ship production code end-to-end.
 
-<img src="./src/divider.svg" alt="" width="100%">
+---
 
 <div align="center">
   <h2>Ethereum Standards</h2>
@@ -106,7 +106,7 @@ to agentic engineering workflows that ship production code end-to-end.
   </tr>
 </table>
 
-<img src="./src/divider.svg" alt="" width="100%">
+---
 
 <div align="center">
   <h2>AI &amp; Autonomous Systems</h2>
@@ -173,7 +173,7 @@ to agentic engineering workflows that ship production code end-to-end.
 
 </details>
 
-<img src="./src/divider.svg" alt="" width="100%">
+---
 
 <div align="center">
   <h2>Open Source</h2>
@@ -250,7 +250,7 @@ to agentic engineering workflows that ship production code end-to-end.
   <sub>Plus <b>46 documented audit findings</b> on <a href="https://github.com/cosmos/evm">cosmos/evm</a> -- integer overflows, OOM attack vectors, and EIP spec compliance gaps.</sub>
 </div>
 
-<img src="./src/divider.svg" alt="" width="100%">
+---
 
 <div align="center">
   <h2>Tech Stack</h2>
@@ -291,7 +291,7 @@ to agentic engineering workflows that ship production code end-to-end.
 
 </div>
 
-<img src="./src/divider.svg" alt="" width="100%">
+---
 
 <div align="center">
   <h2>Expertise</h2>
@@ -300,21 +300,21 @@ to agentic engineering workflows that ship production code end-to-end.
 ```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#1f6feb', 'primaryTextColor': '#fff', 'primaryBorderColor': '#30363d', 'lineColor': '#484f58', 'secondaryColor': '#238636', 'tertiaryColor': '#8b5cf6', 'fontFamily': 'system-ui, sans-serif', 'fontSize': '14px'}}}%%
 graph TB
-    subgraph Web3["&#x26A1; Web3"]
+    subgraph Web3["Web3"]
         W1[EVM Layer-1<br/>Architecture]
         W2[Smart Contracts<br/>& Token Standards]
         W3[DeFi / CeDeFi<br/>& RWA Tokenization]
         W4[Cosmos SDK<br/>& Validators]
     end
 
-    subgraph AI["&#x1F916; AI & Agents"]
+    subgraph AI["AI and Agents"]
         A1[Multi-Agent<br/>Orchestration]
         A2[MCP Servers<br/>& Tool Use]
         A3[Self-Learning<br/>Feedback Loops]
         A4[Agentic Coding<br/>& Automation]
     end
 
-    subgraph Convergence["&#x1F300; Web3 x AI"]
+    subgraph Convergence["Web3 x AI"]
         C1[On-chain AI Agents]
         C2[Prediction Markets<br/>Intelligence]
         C3[Automated Security<br/>Auditing]
@@ -329,7 +329,7 @@ graph TB
     style Convergence fill:#0d1117,stroke:#ec4899,stroke-width:2px,color:#ec4899
 ```
 
-<img src="./src/divider.svg" alt="" width="100%">
+---
 
 <div align="center">
   <h2>Career</h2>
@@ -405,7 +405,7 @@ graph TB
 
 </details>
 
-<img src="./src/divider.svg" alt="" width="100%">
+---
 
 <div align="center">
   <h2>GitHub</h2>
@@ -413,18 +413,8 @@ graph TB
 
 <div align="center">
 
-<a href="https://github.com/Aboudjem">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Aboudjem&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b5cf6&text_color=c9d1d9&ring_color=58a6ff&rank_icon=percentile">
-    <img width="49%" alt="Adam Boudjemaa GitHub statistics - contributions, commits, pull requests, issues, and stars" src="https://github-readme-stats.vercel.app/api?username=Aboudjem&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0969da&icon_color=8250df&text_color=1f2328&ring_color=0969da&rank_icon=percentile">
-  </picture>
-</a>
-<a href="https://github.com/Aboudjem">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Aboudjem&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=8b5cf6&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=484f58">
-    <img width="49%" alt="Adam Boudjemaa GitHub contribution streak - current streak, longest streak, and total contributions" src="https://streak-stats.demolab.com/?user=Aboudjem&hide_border=true&background=ffffff&stroke=d0d7de&ring=0969da&fire=8250df&currStreakLabel=0969da&sideLabels=1f2328&currStreakNum=1f2328&dates=57606a">
-  </picture>
-</a>
+<img width="49%" alt="Adam Boudjemaa GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Aboudjem&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b5cf6&text_color=c9d1d9&ring_color=58a6ff&rank_icon=percentile"/>
+<img width="49%" alt="Adam Boudjemaa GitHub contribution streak" src="https://streak-stats.demolab.com/?user=Aboudjem&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=8b5cf6&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=484f58"/>
 
 </div>
 
@@ -432,12 +422,7 @@ graph TB
 
 <div align="center">
 
-<a href="https://github.com/Aboudjem">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Aboudjem&hide_border=true&bg_color=0d1117&color=58a6ff&line=8b5cf6&point=c9d1d9&area=true&area_color=1f6feb">
-    <img width="98%" alt="Adam Boudjemaa GitHub contribution activity graph showing daily commit activity" src="https://github-readme-activity-graph.vercel.app/graph?username=Aboudjem&hide_border=true&bg_color=ffffff&color=0969da&line=8250df&point=1f2328&area=true&area_color=ddf4ff">
-  </picture>
-</a>
+<img width="98%" alt="Adam Boudjemaa GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Aboudjem&hide_border=true&bg_color=0d1117&color=58a6ff&line=8b5cf6&point=c9d1d9&area=true&area_color=1f6feb"/>
 
 </div>
 
@@ -445,12 +430,7 @@ graph TB
 
 <div align="center">
 
-<a href="https://github.com/Aboudjem">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Aboudjem&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8">
-    <img width="98%" alt="Adam Boudjemaa GitHub profile trophies and achievements" src="https://github-profile-trophy.vercel.app/?username=Aboudjem&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8">
-  </picture>
-</a>
+<img width="98%" alt="Adam Boudjemaa GitHub profile trophies and achievements" src="https://github-profile-trophy.vercel.app/?username=Aboudjem&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8"/>
 
 </div>
 
@@ -466,7 +446,7 @@ graph TB
 
 </div>
 
-<img src="./src/divider.svg" alt="" width="100%">
+---
 
 <div align="center">
 
