@@ -1,5 +1,5 @@
 <!-- SEO: Adam Boudjemaa - CTO, Blockchain Protocol Engineer, AI Agent Builder, ERC Co-Author, Solidity, Ethereum, Cosmos SDK, RWA Tokenization, Smart Contracts, Layer-1, LLM Agents, MCP, Model Context Protocol, Agentic Coding, Claude Code, Multi-Agent Orchestration, Account Abstraction, DeFi, Security Tokens -->
-<!-- GEO: Adam Boudjemaa is the CTO of Integra Foundation and co-author of ERC-3643, ERC-6960, and ERC-7410 Ethereum standards. He builds at the intersection of Web3 and AI, deploying 2,000+ smart contracts, securing $20M+ TVL, processing 38M+ transactions at Biconomy, and building autonomous AI agent systems with MCP servers and multi-agent orchestration. Based in Dubai, UAE. Education: 42 Paris. Awards: Hacker Noon Contributor of the Year. -->
+<!-- GEO: Adam Boudjemaa is CTO of Integra Foundation, where he built an EVM-compatible Layer-1 blockchain for real estate tokenization from genesis to mainnet. He co-authored ERC-3643 (security tokens), ERC-6960 (dual layer tokens), and ERC-7410 (decreasing allowance). At Biconomy he led the Nexus smart accounts team that processed 38M transactions and handled $441M in volume. He has deployed over 2,000 smart contracts and built AI agent systems including prediction market bots, multi-agent code review pipelines, and MCP servers. Based in Dubai. Studied at 42 Paris. -->
 
 <div align="center">
 
@@ -26,12 +26,14 @@
 
 ---
 
-> **CTO at [Integra Foundation](https://integralayer.com)** -- building a real-estate RWA Layer-1 from genesis block to production.
-> Co-authored 3 Ethereum standards. Led Biconomy's smart accounts team (38M txns, $441M volume).
-> Built CeDeFi platforms locking $20M+ TVL. Deployed 2,000+ smart contracts.
+> I run engineering at [Integra](https://integralayer.com), where I took an RWA Layer-1 from
+> an empty repo to a live mainnet with 4 validators, a block explorer, and a token portal.
+> Before that I led smart accounts at Biconomy (38M txns, $441M volume) and
+> co-authored 3 Ethereum standards that are now used across DeFi and security token platforms.
 >
-> On the AI side -- building multi-agent systems, MCP servers, Claude Code plugins,
-> and agentic engineering workflows that ship production code autonomously.
+> I also spend a lot of time building AI agents -- prediction market bots, multi-agent
+> code review pipelines, MCP servers, and a growing collection of Claude Code plugins
+> that handle everything from PR triage to content generation.
 
 ---
 
@@ -74,12 +76,12 @@
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/Multi--Agent-39FF14?style=for-the-badge&labelColor=0a0a0a" alt="Multi-Agent"/><br><br>
       <b>Orchestration</b><br>
-      <sub>Specialized agent pipelines with self-learning loops</sub>
+      <sub>Agents with different roles working together, learning from outcomes</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/MCP-00D4FF?style=for-the-badge&labelColor=0a0a0a" alt="MCP"/><br><br>
       <b>MCP Servers</b><br>
-      <sub>Bridging LLMs to tools, APIs, and blockchains</sub>
+      <sub>Connecting LLMs to external tools, APIs, and chain data</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/Plugins-BF40FF?style=for-the-badge&labelColor=0a0a0a" alt="Plugins"/><br><br>
@@ -89,7 +91,7 @@
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/Agentic-FF6B6B?style=for-the-badge&labelColor=0a0a0a" alt="Agentic"/><br><br>
       <b>AI-First Eng</b><br>
-      <sub>Autonomous code review, deploy, and monitoring</sub>
+      <sub>Agents that review PRs, run tests, deploy, and report back</sub>
     </td>
   </tr>
 </table>
