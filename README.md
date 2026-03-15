@@ -252,10 +252,6 @@ graph LR
 
 <br><br>
 
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Aboudjem&theme=matrix&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
-
-<br><br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aboudjem/aboudjem/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aboudjem/aboudjem/output/github-snake.svg">
