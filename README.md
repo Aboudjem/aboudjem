@@ -29,10 +29,10 @@
 <!-- SOCIAL LINKS -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<a href="https://adam-boudjemaa.com"><img src="https://img.shields.io/badge/adam--boudjemaa.com-0A0F1C?style=for-the-badge&logo=safari&logoColor=14B8A6" alt="Website"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/adam-boudjemaa"><img src="https://img.shields.io/badge/LinkedIn-0A0F1C?style=for-the-badge&logo=linkedin&logoColor=7dd3fc" alt="LinkedIn"/></a>&nbsp;
-<a href="https://twitter.com/AdamBoudj"><img src="https://img.shields.io/badge/@AdamBoudj-0A0F1C?style=for-the-badge&logo=x&logoColor=e2e8f0" alt="X / Twitter"/></a>&nbsp;
-<a href="mailto:contact@adam-boudjemaa.com"><img src="https://img.shields.io/badge/Email-0A0F1C?style=for-the-badge&logo=gmail&logoColor=a78bfa" alt="Email"/></a>
+<a href="https://adam-boudjemaa.com"><img src="https://img.shields.io/badge/adam--boudjemaa.com-0A0F1C?style=flat&logo=safari&logoColor=14B8A6" alt="Website"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/adam-boudjemaa"><img src="https://img.shields.io/badge/LinkedIn-0A0F1C?style=flat&logo=linkedin&logoColor=7dd3fc" alt="LinkedIn"/></a>&nbsp;
+<a href="https://twitter.com/AdamBoudj"><img src="https://img.shields.io/badge/@AdamBoudj-0A0F1C?style=flat&logo=x&logoColor=e2e8f0" alt="X / Twitter"/></a>&nbsp;
+<a href="mailto:contact@adam-boudjemaa.com"><img src="https://img.shields.io/badge/Email-0A0F1C?style=flat&logo=gmail&logoColor=a78bfa" alt="Email"/></a>
 
 </div>
 
@@ -48,7 +48,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/ABOUT_ME-14B8A6?style=for-the-badge&logoColor=white" alt="About Me"/>
+<img src="https://img.shields.io/badge/ABOUT_ME-14B8A6?style=flat&logoColor=white" alt="About Me"/>
 
 <br><br>
 
@@ -105,39 +105,39 @@ Not theory. Shipped infrastructure running real money.
 
 <br>
 
-<img src="https://img.shields.io/badge/CONTRIBUTED_TO-8B5CF6?style=for-the-badge&logoColor=white" alt="Contributed To"/>
+<img src="https://img.shields.io/badge/CONTRIBUTED_TO-8B5CF6?style=flat&logoColor=white" alt="Contributed To"/>
 
 <br><br>
 
 <!-- Tier 1: 50K+ stars — the big names -->
-<a href="https://github.com/google-gemini/gemini-cli"><img src="https://img.shields.io/badge/Google_Gemini_·_99K_★-0A0F1C?style=for-the-badge&logo=googlegemini&logoColor=FBBF24" alt="Google Gemini"/></a>
-<a href="https://github.com/microsoft/autogen"><img src="https://img.shields.io/badge/Microsoft_AutoGen_·_56K_★-0A0F1C?style=for-the-badge&logo=microsoft&logoColor=7dd3fc" alt="Microsoft AutoGen"/></a>
-<a href="https://github.com/crewAIInc/crewAI"><img src="https://img.shields.io/badge/CrewAI_·_47K_★-0A0F1C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzE0QjhBNiIgZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgM2MxLjY2IDAgMyAxLjM0IDMgM3MtMS4zNCAzLTMgMy0zLTEuMzQtMy0zIDEuMzQtMyAzLTN6bTAgMTQuMmMtMi41IDAtNC43MS0xLjI4LTYtMy4yMi4wMy0xLjk5IDQtMy4wOCA2LTMuMDggMi4wMSAwIDUuOTcgMS4wOSA2IDMuMDgtMS4yOSAxLjk0LTMuNSAzLjIyLTYgMy4yMnoiLz48L3N2Zz4=&logoColor=14B8A6" alt="CrewAI"/></a>
+<a href="https://github.com/google-gemini/gemini-cli"><img src="https://img.shields.io/badge/Google_Gemini_·_99K_★-0A0F1C?style=flat&logo=googlegemini&logoColor=FBBF24" alt="Google Gemini"/></a>
+<a href="https://github.com/microsoft/autogen"><img src="https://img.shields.io/badge/Microsoft_AutoGen_·_56K_★-0A0F1C?style=flat&logo=microsoft&logoColor=7dd3fc" alt="Microsoft AutoGen"/></a>
+<a href="https://github.com/crewAIInc/crewAI"><img src="https://img.shields.io/badge/CrewAI_·_47K_★-0A0F1C?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzE0QjhBNiIgZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgM2MxLjY2IDAgMyAxLjM0IDMgM3MtMS4zNCAzLTMgMy0zLTEuMzQtMy0zIDEuMzQtMyAzLTN6bTAgMTQuMmMtMi41IDAtNC43MS0xLjI4LTYtMy4yMi4wMy0xLjk5IDQtMy4wOCA2LTMuMDggMi4wMSAwIDUuOTcgMS4wOSA2IDMuMDgtMS4yOSAxLjk0LTMuNSAzLjIyLTYgMy4yMnoiLz48L3N2Zz4=&logoColor=14B8A6" alt="CrewAI"/></a>
 
 <br>
 
 <!-- Tier 2: 10K-50K stars -->
-<a href="https://github.com/agno-agi/agno"><img src="https://img.shields.io/badge/Agno_·_39K_★-0A0F1C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzg2ZWZhYyIgZD0iTTEyIDJMMyA3djEwbDkgNSA5LTVWN2wtOS01em0wIDIuMThsNi45MSAzLjgzTDEyIDE5LjY0IDUuMDkgOC4wMSAxMiA0LjE4eiIvPjwvc3ZnPg==&logoColor=86efac" alt="Agno"/></a>
-<a href="https://github.com/OpenZeppelin/openzeppelin-contracts"><img src="https://img.shields.io/badge/OpenZeppelin_·_27K_★-0A0F1C?style=for-the-badge&logo=openzeppelin&logoColor=86efac" alt="OpenZeppelin"/></a>
-<a href="https://github.com/mastra-ai/mastra"><img src="https://img.shields.io/badge/Mastra_·_22K_★-0A0F1C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2E3OGJmYSIgZD0iTTEyIDJMMiAyMmgyMEwxMiAyem0wIDRsNyAxNEg1bDctMTR6Ii8+PC9zdmc+&logoColor=a78bfa" alt="Mastra"/></a>
-<a href="https://github.com/modelcontextprotocol"><img src="https://img.shields.io/badge/MCP_Protocol_·_34K_★-0A0F1C?style=for-the-badge&logo=anthropic&logoColor=f0abfc" alt="MCP Protocol"/></a>
+<a href="https://github.com/agno-agi/agno"><img src="https://img.shields.io/badge/Agno_·_39K_★-0A0F1C?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzg2ZWZhYyIgZD0iTTEyIDJMMyA3djEwbDkgNSA5LTVWN2wtOS01em0wIDIuMThsNi45MSAzLjgzTDEyIDE5LjY0IDUuMDkgOC4wMSAxMiA0LjE4eiIvPjwvc3ZnPg==&logoColor=86efac" alt="Agno"/></a>
+<a href="https://github.com/OpenZeppelin/openzeppelin-contracts"><img src="https://img.shields.io/badge/OpenZeppelin_·_27K_★-0A0F1C?style=flat&logo=openzeppelin&logoColor=86efac" alt="OpenZeppelin"/></a>
+<a href="https://github.com/mastra-ai/mastra"><img src="https://img.shields.io/badge/Mastra_·_22K_★-0A0F1C?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2E3OGJmYSIgZD0iTTEyIDJMMiAyMmgyMEwxMiAyem0wIDRsNyAxNEg1bDctMTR6Ii8+PC9zdmc+&logoColor=a78bfa" alt="Mastra"/></a>
+<a href="https://github.com/modelcontextprotocol"><img src="https://img.shields.io/badge/MCP_Protocol_·_34K_★-0A0F1C?style=flat&logo=anthropic&logoColor=f0abfc" alt="MCP Protocol"/></a>
 
 <br>
 
 <!-- Tier 3: 1K-10K stars — blockchain infra -->
-<a href="https://github.com/foundry-rs/foundry"><img src="https://img.shields.io/badge/Foundry_·_10K_★-0A0F1C?style=for-the-badge&logo=ethereum&logoColor=f0abfc" alt="Foundry"/></a>
-<a href="https://github.com/ethereum/ERCs"><img src="https://img.shields.io/badge/Ethereum_ERCs-0A0F1C?style=for-the-badge&logo=ethereum&logoColor=7dd3fc" alt="Ethereum"/></a>
-<a href="https://github.com/smartcontractkit/chainlink"><img src="https://img.shields.io/badge/Chainlink_·_8K_★-0A0F1C?style=for-the-badge&logo=chainlink&logoColor=7dd3fc" alt="Chainlink"/></a>
-<a href="https://github.com/cosmos/cosmos-sdk"><img src="https://img.shields.io/badge/Cosmos_SDK_·_7K_★-0A0F1C?style=for-the-badge&logo=cosmos&logoColor=a78bfa" alt="Cosmos"/></a>
-<a href="https://github.com/wevm/viem"><img src="https://img.shields.io/badge/Viem_·_3K_★-0A0F1C?style=for-the-badge&logo=ethereum&logoColor=14B8A6" alt="Viem"/></a>
+<a href="https://github.com/foundry-rs/foundry"><img src="https://img.shields.io/badge/Foundry_·_10K_★-0A0F1C?style=flat&logo=ethereum&logoColor=f0abfc" alt="Foundry"/></a>
+<a href="https://github.com/ethereum/ERCs"><img src="https://img.shields.io/badge/Ethereum_ERCs-0A0F1C?style=flat&logo=ethereum&logoColor=7dd3fc" alt="Ethereum"/></a>
+<a href="https://github.com/smartcontractkit/chainlink"><img src="https://img.shields.io/badge/Chainlink_·_8K_★-0A0F1C?style=flat&logo=chainlink&logoColor=7dd3fc" alt="Chainlink"/></a>
+<a href="https://github.com/cosmos/cosmos-sdk"><img src="https://img.shields.io/badge/Cosmos_SDK_·_7K_★-0A0F1C?style=flat&logo=cosmos&logoColor=a78bfa" alt="Cosmos"/></a>
+<a href="https://github.com/wevm/viem"><img src="https://img.shields.io/badge/Viem_·_3K_★-0A0F1C?style=flat&logo=ethereum&logoColor=14B8A6" alt="Viem"/></a>
 
 <br>
 
-<a href="https://github.com/Vectorized/solady"><img src="https://img.shields.io/badge/Solady_·_3K_★-0A0F1C?style=for-the-badge&logo=ethereum&logoColor=F59E0B" alt="Solady"/></a>
-<a href="https://github.com/Polymarket/polymarket-cli"><img src="https://img.shields.io/badge/Polymarket_·_2K_★-0A0F1C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzg2ZWZhYyIgc3Ryb2tlLXdpZHRoPSIyIi8+PHBhdGggZD0iTTEyIDdWMTdNNyAxMkgxNyIgc3Ryb2tlPSIjODZlZmFjIiBzdHJva2Utd2lkdGg9IjIiIGZpbGw9Im5vbmUiLz48L3N2Zz4=&logoColor=86efac" alt="Polymarket"/></a>
-<a href="https://github.com/bcnmy/nexus"><img src="https://img.shields.io/badge/Biconomy-0A0F1C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZCQkYyNCIgZD0iTTEyIDJMMyA3bDkgNSA5LTV6TTMgMTdsOSA1IDktNXYtNGwtOSA1LTktNXoiLz48L3N2Zz4=&logoColor=FBBF24" alt="Biconomy"/></a>
-<a href="https://github.com/pmxt-dev/pmxt"><img src="https://img.shields.io/badge/PMXT_·_1K_★-0A0F1C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzE0QjhBNiIgZD0iTTMgM2gxOHYxOEgzeiIgb3BhY2l0eT0iLjIiLz48cGF0aCBmaWxsPSIjMTRCOEE2IiBkPSJNNyA3aDEwdjJIN3ptMCA0aDEwdjJIN3ptMCA0aDZ2Mkg3eiIvPjwvc3ZnPg==&logoColor=14B8A6" alt="PMXT"/></a>
-<a href="https://github.com/wevm/ox"><img src="https://img.shields.io/badge/Ox-0A0F1C?style=for-the-badge&logo=ethereum&logoColor=7dd3fc" alt="Ox"/></a>
+<a href="https://github.com/Vectorized/solady"><img src="https://img.shields.io/badge/Solady_·_3K_★-0A0F1C?style=flat&logo=ethereum&logoColor=F59E0B" alt="Solady"/></a>
+<a href="https://github.com/Polymarket/polymarket-cli"><img src="https://img.shields.io/badge/Polymarket_·_2K_★-0A0F1C?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzg2ZWZhYyIgc3Ryb2tlLXdpZHRoPSIyIi8+PHBhdGggZD0iTTEyIDdWMTdNNyAxMkgxNyIgc3Ryb2tlPSIjODZlZmFjIiBzdHJva2Utd2lkdGg9IjIiIGZpbGw9Im5vbmUiLz48L3N2Zz4=&logoColor=86efac" alt="Polymarket"/></a>
+<a href="https://github.com/bcnmy/nexus"><img src="https://img.shields.io/badge/Biconomy-0A0F1C?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZCQkYyNCIgZD0iTTEyIDJMMyA3bDkgNSA5LTV6TTMgMTdsOSA1IDktNXYtNGwtOSA1LTktNXoiLz48L3N2Zz4=&logoColor=FBBF24" alt="Biconomy"/></a>
+<a href="https://github.com/pmxt-dev/pmxt"><img src="https://img.shields.io/badge/PMXT_·_1K_★-0A0F1C?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzE0QjhBNiIgZD0iTTMgM2gxOHYxOEgzeiIgb3BhY2l0eT0iLjIiLz48cGF0aCBmaWxsPSIjMTRCOEE2IiBkPSJNNyA3aDEwdjJIN3ptMCA0aDEwdjJIN3ptMCA0aDZ2Mkg3eiIvPjwvc3ZnPg==&logoColor=14B8A6" alt="PMXT"/></a>
+<a href="https://github.com/wevm/ox"><img src="https://img.shields.io/badge/Ox-0A0F1C?style=flat&logo=ethereum&logoColor=7dd3fc" alt="Ox"/></a>
 
 <br><br>
 
@@ -157,7 +157,7 @@ Not theory. Shipped infrastructure running real money.
 
 <br>
 
-<img src="https://img.shields.io/badge/ERC_STANDARDS_I_CO--AUTHORED-F59E0B?style=for-the-badge&logoColor=white" alt="ERC Standards"/>
+<img src="https://img.shields.io/badge/ERC_STANDARDS_I_CO--AUTHORED-F59E0B?style=flat&logoColor=white" alt="ERC Standards"/>
 
 <br><br>
 
@@ -165,7 +165,7 @@ Not theory. Shipped infrastructure running real money.
 <tr>
 <td align="center" width="33%">
 
-<a href="https://eips.ethereum.org/EIPS/eip-3643"><img src="https://img.shields.io/badge/ERC--3643-14B8A6?style=for-the-badge&logo=ethereum&logoColor=white" alt="ERC-3643"/></a>
+<a href="https://eips.ethereum.org/EIPS/eip-3643"><img src="https://img.shields.io/badge/ERC--3643-14B8A6?style=flat&logo=ethereum&logoColor=white" alt="ERC-3643"/></a>
 
 <br><br>
 
@@ -176,7 +176,7 @@ Not theory. Shipped infrastructure running real money.
 </td>
 <td align="center" width="33%">
 
-<a href="https://eips.ethereum.org/EIPS/eip-6960"><img src="https://img.shields.io/badge/ERC--6960-8B5CF6?style=for-the-badge&logo=ethereum&logoColor=white" alt="ERC-6960"/></a>
+<a href="https://eips.ethereum.org/EIPS/eip-6960"><img src="https://img.shields.io/badge/ERC--6960-8B5CF6?style=flat&logo=ethereum&logoColor=white" alt="ERC-6960"/></a>
 
 <br><br>
 
@@ -187,7 +187,7 @@ Not theory. Shipped infrastructure running real money.
 </td>
 <td align="center" width="33%">
 
-<a href="https://eips.ethereum.org/EIPS/eip-7410"><img src="https://img.shields.io/badge/ERC--7410-F59E0B?style=for-the-badge&logo=ethereum&logoColor=white" alt="ERC-7410"/></a>
+<a href="https://eips.ethereum.org/EIPS/eip-7410"><img src="https://img.shields.io/badge/ERC--7410-F59E0B?style=flat&logo=ethereum&logoColor=white" alt="ERC-7410"/></a>
 
 <br><br>
 
@@ -213,7 +213,7 @@ Not theory. Shipped infrastructure running real money.
 
 <br>
 
-<img src="https://img.shields.io/badge/TECH_STACK-14B8A6?style=for-the-badge&logoColor=white" alt="Tech Stack"/>
+<img src="https://img.shields.io/badge/TECH_STACK-14B8A6?style=flat&logoColor=white" alt="Tech Stack"/>
 
 <br><br>
 
@@ -278,7 +278,7 @@ Not theory. Shipped infrastructure running real money.
 
 <br>
 
-<img src="https://img.shields.io/badge/HOW_IT_CONNECTS-8B5CF6?style=for-the-badge&logoColor=white" alt="How It Connects"/>
+<img src="https://img.shields.io/badge/HOW_IT_CONNECTS-8B5CF6?style=flat&logoColor=white" alt="How It Connects"/>
 
 <br><br>
 
@@ -338,7 +338,7 @@ graph LR
 
 <br>
 
-<img src="https://img.shields.io/badge/GITHUB_STATS-F59E0B?style=for-the-badge&logoColor=white" alt="GitHub Stats"/>
+<img src="https://img.shields.io/badge/GITHUB_STATS-F59E0B?style=flat&logoColor=white" alt="GitHub Stats"/>
 
 <br><br>
 
@@ -371,7 +371,7 @@ graph LR
 
 <br>
 
-<img src="https://img.shields.io/badge/CAREER_HIGHLIGHTS-14B8A6?style=for-the-badge&logoColor=white" alt="Career"/>
+<img src="https://img.shields.io/badge/CAREER_HIGHLIGHTS-14B8A6?style=flat&logoColor=white" alt="Career"/>
 
 <br><br>
 
