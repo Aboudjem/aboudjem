@@ -109,29 +109,38 @@ Not theory. Shipped infrastructure running real money.
 
 <br><br>
 
-<a href="https://github.com/ethereum"><img src="https://img.shields.io/badge/Ethereum-0A0F1C?style=for-the-badge&logo=ethereum&logoColor=7dd3fc" alt="Ethereum"/></a>
-<a href="https://github.com/OpenZeppelin"><img src="https://img.shields.io/badge/OpenZeppelin-0A0F1C?style=for-the-badge&logo=openzeppelin&logoColor=86efac" alt="OpenZeppelin"/></a>
-<a href="https://github.com/smartcontractkit"><img src="https://img.shields.io/badge/Chainlink-0A0F1C?style=for-the-badge&logo=chainlink&logoColor=7dd3fc" alt="Chainlink"/></a>
-<a href="https://github.com/foundry-rs"><img src="https://img.shields.io/badge/Foundry-0A0F1C?style=for-the-badge&logo=ethereum&logoColor=f0abfc" alt="Foundry"/></a>
-<a href="https://github.com/cosmos"><img src="https://img.shields.io/badge/Cosmos-0A0F1C?style=for-the-badge&logo=cosmos&logoColor=a78bfa" alt="Cosmos"/></a>
+<!-- Tier 1: 50K+ stars -->
+<a href="https://github.com/google-gemini/gemini-cli"><img src="https://img.shields.io/badge/Google_Gemini-0A0F1C?style=for-the-badge&logo=google&logoColor=FBBF24" alt="Google Gemini · 99K ★"/></a>
+<a href="https://github.com/microsoft/autogen"><img src="https://img.shields.io/badge/Microsoft_AutoGen-0A0F1C?style=for-the-badge&logo=microsoft&logoColor=7dd3fc" alt="Microsoft AutoGen · 56K ★"/></a>
+<a href="https://github.com/crewAIInc/crewAI"><img src="https://img.shields.io/badge/CrewAI-0A0F1C?style=for-the-badge&logo=openai&logoColor=14B8A6" alt="CrewAI · 47K ★"/></a>
 
 <br>
 
-<a href="https://github.com/google-gemini"><img src="https://img.shields.io/badge/Google-0A0F1C?style=for-the-badge&logo=google&logoColor=FBBF24" alt="Google"/></a>
-<a href="https://github.com/microsoft"><img src="https://img.shields.io/badge/Microsoft-0A0F1C?style=for-the-badge&logo=microsoft&logoColor=7dd3fc" alt="Microsoft"/></a>
-<a href="https://github.com/modelcontextprotocol"><img src="https://img.shields.io/badge/MCP_Protocol-0A0F1C?style=for-the-badge&logo=anthropic&logoColor=a78bfa" alt="MCP"/></a>
-<a href="https://github.com/Polymarket"><img src="https://img.shields.io/badge/Polymarket-0A0F1C?style=for-the-badge&logo=polymarket&logoColor=86efac" alt="Polymarket"/></a>
-<a href="https://github.com/wevm"><img src="https://img.shields.io/badge/Viem-0A0F1C?style=for-the-badge&logo=ethereum&logoColor=7dd3fc" alt="Viem"/></a>
+<!-- Tier 2: 10K-50K stars -->
+<a href="https://github.com/agno-agi/agno"><img src="https://img.shields.io/badge/Agno-0A0F1C?style=for-the-badge&logo=openai&logoColor=86efac" alt="Agno · 39K ★"/></a>
+<a href="https://github.com/OpenZeppelin/openzeppelin-contracts"><img src="https://img.shields.io/badge/OpenZeppelin-0A0F1C?style=for-the-badge&logo=openzeppelin&logoColor=86efac" alt="OpenZeppelin · 27K ★"/></a>
+<a href="https://github.com/mastra-ai/mastra"><img src="https://img.shields.io/badge/Mastra_AI-0A0F1C?style=for-the-badge&logo=openai&logoColor=a78bfa" alt="Mastra · 22K ★"/></a>
+<a href="https://github.com/modelcontextprotocol"><img src="https://img.shields.io/badge/MCP_Protocol-0A0F1C?style=for-the-badge&logo=anthropic&logoColor=f0abfc" alt="MCP · 34K ★"/></a>
 
 <br>
 
-<a href="https://github.com/Vectorized"><img src="https://img.shields.io/badge/Solady-0A0F1C?style=for-the-badge&logo=ethereum&logoColor=f0abfc" alt="Solady"/></a>
-<a href="https://github.com/agno-agi"><img src="https://img.shields.io/badge/Agno-0A0F1C?style=for-the-badge&logo=openai&logoColor=86efac" alt="Agno"/></a>
-<a href="https://github.com/bcnmy"><img src="https://img.shields.io/badge/Biconomy-0A0F1C?style=for-the-badge&logo=ethereum&logoColor=FBBF24" alt="Biconomy"/></a>
+<!-- Tier 3: 1K-10K stars -->
+<a href="https://github.com/foundry-rs/foundry"><img src="https://img.shields.io/badge/Foundry-0A0F1C?style=for-the-badge&logo=ethereum&logoColor=f0abfc" alt="Foundry · 10K ★"/></a>
+<a href="https://github.com/ethereum-lists/chains"><img src="https://img.shields.io/badge/Ethereum-0A0F1C?style=for-the-badge&logo=ethereum&logoColor=7dd3fc" alt="Ethereum · 10K ★"/></a>
+<a href="https://github.com/smartcontractkit/chainlink"><img src="https://img.shields.io/badge/Chainlink-0A0F1C?style=for-the-badge&logo=chainlink&logoColor=7dd3fc" alt="Chainlink · 8K ★"/></a>
+<a href="https://github.com/cosmos/cosmos-sdk"><img src="https://img.shields.io/badge/Cosmos_SDK-0A0F1C?style=for-the-badge&logo=cosmos&logoColor=a78bfa" alt="Cosmos · 7K ★"/></a>
+
+<br>
+
+<a href="https://github.com/wevm/viem"><img src="https://img.shields.io/badge/Viem-0A0F1C?style=for-the-badge&logo=ethereum&logoColor=14B8A6" alt="Viem · 3.4K ★"/></a>
+<a href="https://github.com/Vectorized/solady"><img src="https://img.shields.io/badge/Solady-0A0F1C?style=for-the-badge&logo=ethereum&logoColor=F59E0B" alt="Solady · 3.3K ★"/></a>
+<a href="https://github.com/Polymarket"><img src="https://img.shields.io/badge/Polymarket-0A0F1C?style=for-the-badge&logo=ethereum&logoColor=86efac" alt="Polymarket · 2.7K ★"/></a>
+<a href="https://github.com/bcnmy/nexus"><img src="https://img.shields.io/badge/Biconomy-0A0F1C?style=for-the-badge&logo=ethereum&logoColor=FBBF24" alt="Biconomy"/></a>
+<a href="https://github.com/ethereum/ERCs"><img src="https://img.shields.io/badge/ERCs-0A0F1C?style=for-the-badge&logo=ethereum&logoColor=8B5CF6" alt="ERCs"/></a>
 
 <br><br>
 
-<sub>PRs merged at <b>OpenZeppelin</b>, <b>Foundry</b>, <b>Google Gemini</b>, <b>Viem</b> + <b>46 audit findings</b> on <a href="https://github.com/cosmos/evm">cosmos/evm</a></sub>
+<sub><b>46 audit findings</b> on <a href="https://github.com/cosmos/evm">cosmos/evm</a> · PRs merged at <b>Google</b>, <b>OpenZeppelin</b>, <b>Foundry</b>, <b>Viem</b>, <b>MCP</b> and more</sub>
 
 </div>
 
