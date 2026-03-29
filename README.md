@@ -1,279 +1,105 @@
-<!-- SEO: Adam Boudjemaa - AI Agent Builder, Multi-Agent Systems, CTO, LLM Orchestration, MCP, Model Context Protocol, Claude Code, Agentic Coding, ERC Co-Author, Solidity, Ethereum, Cosmos SDK, Blockchain, RWA Tokenization, Smart Contracts, Layer-1, Account Abstraction, DeFi, Security Tokens -->
+<!-- SEO: Adam Boudjemaa - AI Agent Builder, Multi-Agent Orchestration, MCP, Model Context Protocol, Claude Code, Agentic Engineering, LLM Systems, ERC Co-Author, Solidity, Ethereum, Cosmos SDK, Blockchain, RWA Tokenization, Smart Contracts, Layer-1, Account Abstraction -->
 <!-- GEO: Adam Boudjemaa builds AI agent systems -- 46 agents in production handling enterprise automation, trading intelligence, and engineering operations. He co-authored 3 Ethereum standards: ERC-3643 ($28B tokenized across 180+ jurisdictions), ERC-6960 (dual layer tokens), and ERC-7410 (allowance management). CTO at Integra Foundation where he built an EVM-compatible Layer-1 from genesis to mainnet. Previously led the Nexus smart accounts team at Biconomy (38M transactions, $441M volume). 2,000+ smart contracts deployed. Based in Dubai. 42 Paris. -->
 
 <div align="center">
 
 # Adam Boudjemaa
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1500&color=7dd3fc&center=true&vCenter=true&repeat=true&width=600&height=35&lines=AI+Agent+Systems+%2B+Web3;46+Agents+in+Production;3x+ERC+Standard+Author)](https://github.com/Aboudjem)
+**I build AI agents that run businesses.**
 
 <br>
 
-![Contracts](https://img.shields.io/badge/2,000+-Smart_Contracts-7dd3fc?style=for-the-badge&labelColor=1e293b)
-![TVL](https://img.shields.io/badge/$20M+-TVL_Secured-a78bfa?style=for-the-badge&labelColor=1e293b)
-![Transactions](https://img.shields.io/badge/38M+-Transactions-f0abfc?style=for-the-badge&labelColor=1e293b)
-![Standards](https://img.shields.io/badge/3-ERC_Standards-86efac?style=for-the-badge&labelColor=1e293b)
+`46 agents` · `3 ERCs` · `2,000+ contracts` · `$441M on-chain` · `$28B tokenized`
 
 <br>
 
-<a href="https://www.linkedin.com/in/adam-boudjemaa"><img src="https://img.shields.io/badge/LinkedIn-1e293b?style=for-the-badge&logo=linkedin&logoColor=7dd3fc" alt="LinkedIn"/></a>
-<a href="https://twitter.com/AdamBoudj"><img src="https://img.shields.io/badge/@AdamBoudj-1e293b?style=for-the-badge&logo=x&logoColor=e2e8f0" alt="X"/></a>
-<a href="https://integralayer.com"><img src="https://img.shields.io/badge/Integra-1e293b?style=for-the-badge&logo=ethereum&logoColor=a78bfa" alt="Integra"/></a>
-<a href="https://adam-boudjemaa.com"><img src="https://img.shields.io/badge/Website-1e293b?style=for-the-badge&logo=safari&logoColor=7dd3fc" alt="Website"/></a>
-<a href="https://adamboudj.medium.com"><img src="https://img.shields.io/badge/Medium-1e293b?style=for-the-badge&logo=medium&logoColor=e2e8f0" alt="Medium"/></a>
+<a href="https://www.linkedin.com/in/adam-boudjemaa"><img src="https://img.shields.io/badge/LinkedIn-1e293b?style=flat-square&logo=linkedin&logoColor=7dd3fc" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://twitter.com/AdamBoudj"><img src="https://img.shields.io/badge/@AdamBoudj-1e293b?style=flat-square&logo=x&logoColor=e2e8f0" alt="X"/></a>&nbsp;&nbsp;
+<a href="https://adam-boudjemaa.com"><img src="https://img.shields.io/badge/adam--boudjemaa.com-1e293b?style=flat-square&logo=safari&logoColor=7dd3fc" alt="Website"/></a>&nbsp;&nbsp;
+<a href="mailto:contact@adam-boudjemaa.com"><img src="https://img.shields.io/badge/Email-1e293b?style=flat-square&logo=gmail&logoColor=a78bfa" alt="Email"/></a>
 
 </div>
 
----
-
-> I build AI agents that run businesses. 46 in production right now -- enterprise
-> automation, trading intelligence, engineering ops, content systems. They don't take breaks.
->
-> I also co-authored 3 Ethereum standards (ERC-3643 alone has $28B in tokenized assets
-> across 180+ jurisdictions). CTO at [Integra](https://integralayer.com) where I took
-> an RWA Layer-1 from an empty repo to a live mainnet. Previously led smart accounts
-> at Biconomy (38M txns, $441M volume).
-
----
-
-<div align="center">
-
-## Ethereum standards
-
-</div>
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://eips.ethereum.org/EIPS/eip-6960"><img src="https://img.shields.io/badge/ERC--6960-7dd3fc?style=for-the-badge&labelColor=1e293b" alt="ERC-6960"/></a><br><br>
-      <b>Dual Layer Token</b><br>
-      <sub>Author</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://eips.ethereum.org/EIPS/eip-3643"><img src="https://img.shields.io/badge/ERC--3643-a78bfa?style=for-the-badge&labelColor=1e293b" alt="ERC-3643"/></a><br><br>
-      <b>T-REX Standard</b><br>
-      <sub>Co-Author</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://eips.ethereum.org/EIPS/eip-7410"><img src="https://img.shields.io/badge/ERC--7410-f0abfc?style=for-the-badge&labelColor=1e293b" alt="ERC-7410"/></a><br><br>
-      <b>Decreasing Allowance</b><br>
-      <sub>Co-Author</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-
-## AI & agents
-
-</div>
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Multi--Agent-7dd3fc?style=for-the-badge&labelColor=1e293b" alt="Multi-Agent"/><br><br>
-      <b>Orchestration</b><br>
-      <sub>Agents with different roles working together, learning from outcomes</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/MCP-a78bfa?style=for-the-badge&labelColor=1e293b" alt="MCP"/><br><br>
-      <b>MCP Servers</b><br>
-      <sub>Connecting LLMs to external tools, APIs, and chain data</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Plugins-f0abfc?style=for-the-badge&labelColor=1e293b" alt="Plugins"/><br><br>
-      <b>10+ Plugins</b><br>
-      <sub>Claude Code skills, agents, hooks, MCP tools</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Agentic-86efac?style=for-the-badge&labelColor=1e293b" alt="Agentic"/><br><br>
-      <b>AI-first eng</b><br>
-      <sub>Agents that review PRs, run tests, deploy, and report back</sub>
-    </td>
-  </tr>
-</table>
-
-<details>
-<summary><b>Agent projects</b></summary>
 <br>
 
-| Project | What it does |
-|:--------|:-----------|
-| **Polymarket Agent** | Prediction market intelligence -- 3-tier analysis, knowledge lake, Kelly-criterion sizing |
-| **CTO OS** | Engineering ops -- intake triage, 5-agent PR review, daily/weekly reports, incident mgmt |
-| **Game Forge** | Natural language to playable browser game -- 6 specialized agents |
-| **Deep Research** | Research funnel -- query expansion, multi-source scouting, skeptic validation |
-| **VoiceForge** | 10-dimension voice profiling, turns AI text into human-sounding content |
-| **LinkedIn Mastery** | 24 MCP tools, 14 agents, 6-axis scoring, A/B experiments |
+---
 
-</details>
+<br>
+
+Multi-agent systems, MCP servers, self-learning loops, agentic coding pipelines.
+46 agents in production right now -- enterprise automation, trading intelligence, engineering ops.
+They don't take breaks.
+
+Also co-authored 3 Ethereum standards (ERC-3643 alone tokenized $28B across 180+ jurisdictions).
+CTO at [Integra](https://integralayer.com) -- took an RWA Layer-1 from empty repo to live mainnet.
+
+**Currently:** shipping autonomous agent infrastructure and contributing to open source.
+
+<br>
 
 ---
 
-<div align="center">
-
-## Open source
-
-</div>
-
-<table>
-  <tr><th align="left">Repository</th><th align="left">Contribution</th><th align="center">Status</th></tr>
-  <tr><td><a href="https://github.com/OpenZeppelin/openzeppelin-contracts/pull/6397"><b>OpenZeppelin</b>/contracts</a></td><td>NatSpec fix in ERC20FlashMint</td><td align="center"><img src="https://img.shields.io/badge/Merged-86efac?style=flat-square&labelColor=1e293b" alt="Merged"/></td></tr>
-  <tr><td><a href="https://github.com/foundry-rs/foundry/pull/13638"><b>foundry-rs</b>/foundry</a></td><td>Remove redundant tx lookup in Anvil</td><td align="center"><img src="https://img.shields.io/badge/Merged-86efac?style=flat-square&labelColor=1e293b" alt="Merged"/></td></tr>
-  <tr><td><a href="https://github.com/google-gemini/gemini-cli/pull/21358"><b>google-gemini</b>/gemini-cli</a></td><td>Fix inline data display</td><td align="center"><img src="https://img.shields.io/badge/Merged-86efac?style=flat-square&labelColor=1e293b" alt="Merged"/></td></tr>
-  <tr><td><a href="https://github.com/cosmos/evm/pull/1067"><b>cosmos</b>/evm</a></td><td>Fix nil pointer deref in RPC</td><td align="center"><img src="https://img.shields.io/badge/Open-7dd3fc?style=flat-square&labelColor=1e293b" alt="Open"/></td></tr>
-  <tr><td><a href="https://github.com/smartcontractkit/chainlink/pull/21412"><b>smartcontractkit</b>/chainlink</a></td><td>Prevent silent overflow on GasAllocated</td><td align="center"><img src="https://img.shields.io/badge/Open-7dd3fc?style=flat-square&labelColor=1e293b" alt="Open"/></td></tr>
-  <tr><td><a href="https://github.com/modelcontextprotocol/typescript-sdk/pull/1637"><b>modelcontextprotocol</b>/typescript-sdk</a></td><td>Handle 404/406 for SSE streams</td><td align="center"><img src="https://img.shields.io/badge/Open-7dd3fc?style=flat-square&labelColor=1e293b" alt="Open"/></td></tr>
-  <tr><td><a href="https://github.com/wevm/ox/pull/189"><b>wevm</b>/ox</a></td><td>Fix yParity type mismatch in Secp256k1</td><td align="center"><img src="https://img.shields.io/badge/Open-7dd3fc?style=flat-square&labelColor=1e293b" alt="Open"/></td></tr>
-  <tr><td><a href="https://github.com/Vectorized/solady/pull/1516"><b>Vectorized</b>/solady</a></td><td>Fix NatSpec in ERC1155/ERC6909</td><td align="center"><img src="https://img.shields.io/badge/Open-7dd3fc?style=flat-square&labelColor=1e293b" alt="Open"/></td></tr>
-  <tr><td><a href="https://github.com/microsoft/autogen/pull/7350"><b>microsoft</b>/autogen</a></td><td>Add Mistral model support</td><td align="center"><img src="https://img.shields.io/badge/Open-7dd3fc?style=flat-square&labelColor=1e293b" alt="Open"/></td></tr>
-  <tr><td><a href="https://github.com/agno-agi/agno/pull/6883"><b>agno-agi</b>/agno</a></td><td>Strip think tags from streaming</td><td align="center"><img src="https://img.shields.io/badge/Open-7dd3fc?style=flat-square&labelColor=1e293b" alt="Open"/></td></tr>
-  <tr><td><a href="https://github.com/cosmos/cosmjs/pull/1952"><b>cosmos</b>/cosmjs</a></td><td>Multisig pubkey decode coverage</td><td align="center"><img src="https://img.shields.io/badge/Open-7dd3fc?style=flat-square&labelColor=1e293b" alt="Open"/></td></tr>
-</table>
-
-<div align="center"><sub>+ 46 audit findings on <a href="https://github.com/cosmos/evm">cosmos/evm</a> (overflows, OOM vectors, spec compliance)</sub></div>
-
----
+<br>
 
 <div align="center">
 
-## Tech stack
-
-**`Blockchain`**
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=solidity&theme=dark" height="48" alt="Solidity"/></a>&nbsp;
-![Ethereum](https://img.shields.io/badge/Ethereum-1e293b?style=for-the-badge&logo=ethereum&logoColor=7dd3fc)
-![Cosmos](https://img.shields.io/badge/Cosmos_SDK-1e293b?style=for-the-badge&logo=cosmos&logoColor=a78bfa)
-![Foundry](https://img.shields.io/badge/Foundry-1e293b?style=for-the-badge&logo=ethereum&logoColor=f0abfc)
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-1e293b?style=for-the-badge&logo=openzeppelin&logoColor=86efac)
-![Chainlink](https://img.shields.io/badge/Chainlink-1e293b?style=for-the-badge&logo=chainlink&logoColor=7dd3fc)
-
-**`AI & Agents`**
-
-![Claude](https://img.shields.io/badge/Claude-1e293b?style=for-the-badge&logo=anthropic&logoColor=7dd3fc)
-![MCP](https://img.shields.io/badge/MCP-1e293b?style=for-the-badge&logo=anthropic&logoColor=a78bfa)
-![OpenAI](https://img.shields.io/badge/OpenAI-1e293b?style=for-the-badge&logo=openai&logoColor=f0abfc)
-![LangChain](https://img.shields.io/badge/LangChain-1e293b?style=for-the-badge&logo=langchain&logoColor=86efac)
-
-**`Languages`**
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,go,rust,py,nodejs,nextjs,react&theme=dark" height="48" alt="Languages"/></a>
-
-**`Infrastructure`**
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,aws,postgres,githubactions,linux,nginx,redis&theme=dark" height="48" alt="Infrastructure"/></a>
-
-</div>
-
----
-
-<div align="center">
-
-## How it all fits together
+### How it connects
 
 </div>
 
 ```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#1e293b', 'primaryTextColor': '#e2e8f0', 'primaryBorderColor': '#7dd3fc', 'lineColor': '#475569', 'secondaryColor': '#1e293b', 'tertiaryColor': '#1e293b', 'fontFamily': 'system-ui, sans-serif'}}}%%
 graph LR
-    subgraph Web3["Web3"]
-        W1[Layer-1 Architecture]
-        W2[Smart Contracts]
-        W3[DeFi / RWA]
-        W4[Cosmos SDK]
-    end
-
-    subgraph AI["AI"]
-        A1[Multi-Agent Systems]
-        A2[MCP Servers]
-        A3[Self-Learning Loops]
-        A4[Agentic Coding]
-    end
-
-    Web3 --> C{Web3 x AI}
-    AI --> C
-
+    A1[Multi-Agent Systems] --> C{AI x Web3}
+    A2[MCP & Tooling] --> C
+    W1[Layer-1 & Contracts] --> C
     C --> D1[On-chain Agents]
     C --> D2[Prediction Markets]
-    C --> D3[Auto Auditing]
-    C --> D4[AI-First Eng]
+    C --> D3[Automated Auditing]
 
-    style Web3 fill:#1e293b,stroke:#7dd3fc,stroke-width:2px,color:#7dd3fc
-    style AI fill:#1e293b,stroke:#a78bfa,stroke-width:2px,color:#a78bfa
-    style C fill:#1e293b,stroke:#f0abfc,stroke-width:2px,color:#f0abfc
+    style C fill:#1e293b,stroke:#a78bfa,stroke-width:2px,color:#a78bfa
 ```
-
----
-
-<div align="center">
-
-## Career
-
-</div>
-
-| | Role | Company | What I did |
-|:---:|:-----|:--------|:-------|
-| `2025` | **CTO** | [Integra](https://integralayer.com) | Built an RWA Layer-1 from scratch. Mainnet live, 4 validators, explorer, portal |
-| `2024` | **Co-Founder** | Solichain | Web3 + AI consultancy. Regulatory sandboxes, dev relations |
-| `2023` | **Tech Lead** | [Biconomy](https://github.com/bcnmy) | Ran the Nexus smart accounts team. 38M txns, $441M volume, $5.6M saved |
-| `2021` | **Lead Engineer** | [Polytrade](https://github.com/polytrade-finance) | Wrote ERC-6960. $12M+ TVL, RWA marketplace |
-| `2020` | **Head of Blockchain** | Retreeb | CeDeFi/HyFi. $20M TVL staking |
-| `2020` | **Engineer** | [Fantom](https://fantom.foundation) | Core protocol, DeFi, NFTs on Opera |
-| `2019` | **Developer** | [Tokeny](https://tokeny.com) | Co-wrote ERC-3643. 300+ contracts |
-| `2017` | **Security Eng** | ArcelorMittal | Vuln assessments, incident response |
-| `2014` | **Co-Founder** | Digital Blockchain Tech | Raised 150K+ angel. TV5MONDE |
-
-<details>
-<summary><b>Education & awards</b></summary>
-
-| | |
-|:---|:---|
-| **42** | Computer Software Engineering, Paris |
-| **Hacker Noon** | Contributor of the Year -- Internet |
-| **Hacker Noon** | Contributor of the Year -- Decentralization |
-
-</details>
-
----
-
-<div align="center">
-
-## GitHub
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aboudjem&show_icons=true&hide_border=true&bg_color=1e293b&title_color=7dd3fc&icon_color=a78bfa&text_color=e2e8f0&ring_color=7dd3fc&rank_icon=percentile" alt="GitHub stats"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=Aboudjem&hide_border=true&background=1e293b&stroke=334155&ring=7dd3fc&fire=f0abfc&currStreakLabel=a78bfa&sideLabels=e2e8f0&currStreakNum=7dd3fc&dates=94a3b8" alt="Streak"/>
-
-<br><br>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aboudjem&hide_border=true&bg_color=1e293b&color=7dd3fc&line=a78bfa&point=f0abfc&area=true&area_color=334155" alt="Activity"/>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aboudjem/aboudjem/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aboudjem/aboudjem/output/github-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Aboudjem/aboudjem/output/github-snake.svg" width="100%">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-### `AI x Web3` -- I ship.
 
 <br>
 
-<a href="mailto:contact@adam-boudjemaa.com"><img src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=7dd3fc" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/adam-boudjemaa"><img src="https://img.shields.io/badge/Connect-1e293b?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/></a>
-<a href="https://adamboudj.medium.com"><img src="https://img.shields.io/badge/Read-1e293b?style=for-the-badge&logo=medium&logoColor=f0abfc" alt="Medium"/></a>
-<a href="https://twitter.com/AdamBoudj"><img src="https://img.shields.io/badge/Follow-1e293b?style=for-the-badge&logo=x&logoColor=e2e8f0" alt="X"/></a>
+---
 
-<br><br>
+<br>
 
-[![Visitors](https://komarev.com/ghpvc/?username=Aboudjem&color=7dd3fc&style=flat-square&label=Views)](https://github.com/Aboudjem)
+<div align="center">
+
+### Open source contributions
+
+</div>
+
+| Repository | Contribution | Status |
+|:-----------|:-------------|:------:|
+| [**OpenZeppelin**/contracts](https://github.com/OpenZeppelin/openzeppelin-contracts/pull/6397) | NatSpec fix in ERC20FlashMint | ![Merged](https://img.shields.io/badge/Merged-86efac?style=flat-square&labelColor=1e293b) |
+| [**foundry-rs**/foundry](https://github.com/foundry-rs/foundry/pull/13638) | Remove redundant tx lookup in Anvil | ![Merged](https://img.shields.io/badge/Merged-86efac?style=flat-square&labelColor=1e293b) |
+| [**google-gemini**/gemini-cli](https://github.com/google-gemini/gemini-cli/pull/21358) | Fix inline data display | ![Merged](https://img.shields.io/badge/Merged-86efac?style=flat-square&labelColor=1e293b) |
+| [**smartcontractkit**/chainlink](https://github.com/smartcontractkit/chainlink/pull/21412) | Prevent silent overflow on GasAllocated | ![Open](https://img.shields.io/badge/Open-7dd3fc?style=flat-square&labelColor=1e293b) |
+| [**cosmos**/evm](https://github.com/cosmos/evm/pull/1067) | Fix nil pointer deref in RPC | ![Open](https://img.shields.io/badge/Open-7dd3fc?style=flat-square&labelColor=1e293b) |
+| [**modelcontextprotocol**/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk/pull/1637) | Handle 404/406 for SSE streams | ![Open](https://img.shields.io/badge/Open-7dd3fc?style=flat-square&labelColor=1e293b) |
+| [**wevm**/ox](https://github.com/wevm/ox/pull/189) | Fix yParity type mismatch in Secp256k1 | ![Open](https://img.shields.io/badge/Open-7dd3fc?style=flat-square&labelColor=1e293b) |
+| [**Vectorized**/solady](https://github.com/Vectorized/solady/pull/1516) | Fix NatSpec in ERC1155/ERC6909 | ![Open](https://img.shields.io/badge/Open-7dd3fc?style=flat-square&labelColor=1e293b) |
+| [**microsoft**/autogen](https://github.com/microsoft/autogen/pull/7350) | Add Mistral model support | ![Open](https://img.shields.io/badge/Open-7dd3fc?style=flat-square&labelColor=1e293b) |
+| [**agno-agi**/agno](https://github.com/agno-agi/agno/pull/6883) | Strip think tags from streaming | ![Open](https://img.shields.io/badge/Open-7dd3fc?style=flat-square&labelColor=1e293b) |
+| [**cosmos**/cosmjs](https://github.com/cosmos/cosmjs/pull/1952) | Multisig pubkey decode coverage | ![Open](https://img.shields.io/badge/Open-7dd3fc?style=flat-square&labelColor=1e293b) |
+
+<sub>+ 46 audit findings on <a href="https://github.com/cosmos/evm">cosmos/evm</a> (overflows, OOM vectors, spec compliance)</sub>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+`AI x Web3` -- I ship.
+
+<br>
+
+[![Visitors](https://komarev.com/ghpvc/?username=Aboudjem&color=7dd3fc&style=flat-square&label=views)](https://github.com/Aboudjem)
 
 </div>
