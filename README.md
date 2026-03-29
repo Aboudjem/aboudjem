@@ -50,43 +50,43 @@ Co-authored 3 Ethereum standards -- ERC-3643 alone powers $28B in tokenized asse
 
 <br>
 
-| Project | Stars | What I Did |
+| Project | Stars | Contribution |
 |---------|------:|------------|
-| [OpenClaw](https://github.com/openclaw/openclaw) | 339K | Built core game mechanics and level systems |
-| [Google Gemini CLI](https://github.com/google-gemini/gemini-cli) | 99K | Added streaming output and CLI flag handling |
-| [Microsoft AutoGen](https://github.com/microsoft/autogen) | 56K | Improved multi-agent conversation routing |
-| [CrewAI](https://github.com/crewAIInc/crewAI) | 47K | Fixed agent delegation and task chaining |
-| [Agno](https://github.com/agno-agi/agno) | 39K | Extended runtime plugin system |
-| [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) | 27K | Token standard implementations and audits |
-| [Mastra](https://github.com/mastra-ai/mastra) | 22K | Workflow engine improvements |
-| [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk) | 22K | Transport layer and error handling |
-| [Ethereum EIPs](https://github.com/ethereum/EIPs) | 14K | Co-authored ERC-3643, ERC-6960, ERC-7410 |
-| [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk) | 12K | Client initialization and type exports |
-| [Foundry](https://github.com/foundry-rs/foundry) | 10K | Forge test runner and cheatcode fixes |
-| [Ethereum Chains](https://github.com/ethereum-lists/chains) | 10K | Added Integra chain metadata |
+| [Google Gemini CLI](https://github.com/google-gemini/gemini-cli) | 99K | Improved media handling and output rendering |
+| [Microsoft AutoGen](https://github.com/microsoft/autogen) | 56K | Extended model support for multi-agent framework |
+| [CrewAI](https://github.com/crewAIInc/crewAI) | 47K | Agent orchestration and task pipeline |
+| [Agno](https://github.com/agno-agi/agno) | 39K | Fixed streaming reliability for agent runtime |
+| [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) | 27K | ERC20 flash mint security improvements |
+| [Mastra](https://github.com/mastra-ai/mastra) | 22K | AI workflow engine contributions |
+| [MCP Protocol](https://github.com/modelcontextprotocol) | 34K | Transport layer resilience and SDK typing |
+| [Ethereum](https://github.com/ethereum/EIPs) | 14K | **Co-authored 3 standards** (ERC-3643, 6960, 7410) |
+| [Foundry](https://github.com/foundry-rs/foundry) | 10K | Optimized transaction handling in Anvil |
+| [Chainlink](https://github.com/smartcontractkit/chainlink) | 8K | Fixed silent overflow in keeper gas allocation |
+| [Cosmos SDK](https://github.com/cosmos/cosmos-sdk) | 7K | Chain infrastructure and EVM compatibility |
+| [Cosmos EVM](https://github.com/cosmos/evm) | — | **46 security audit findings** (overflows, OOM, spec violations) |
 
 <details>
-<summary><b>+ 15 more repositories</b></summary>
+<summary><b>+ 15 more</b></summary>
 
 <br>
 
-| Project | Stars | What I Did |
+| Project | Stars | Contribution |
 |---------|------:|------------|
-| [Chainlink](https://github.com/smartcontractkit/chainlink) | 8K | Oracle node integration patterns |
-| [Cosmos SDK](https://github.com/cosmos/cosmos-sdk) | 7K | Staking module and validator tooling |
-| [Viem](https://github.com/wevm/viem) | 3K | ABI encoding edge cases |
-| [Solady](https://github.com/Vectorized/solady) | 3K | Gas-optimized ERC20 variants |
-| [Polymarket](https://github.com/Polymarket/polymarket-cli) | 2K | CLI order placement and market queries |
-| [Alloy](https://github.com/alloy-rs/alloy) | 1K | Rust provider transport fixes |
-| [PMXT](https://github.com/pmxt-dev/pmxt) | 1K | Prediction market extensions |
-| [Cosmos EVM](https://github.com/cosmos/evm) | -- | 46 audit findings across EVM compatibility |
-| [Sourcify](https://github.com/argotorg/sourcify) | -- | Contract verification pipeline |
-| [CosmJS](https://github.com/cosmos/cosmjs) | -- | Cosmos JavaScript client patches |
-| [ERCs](https://github.com/ethereum/ERCs) | -- | Standards repo maintenance |
-| [Coinbase](https://github.com/coinbase/solidity-style-guide) | -- | Solidity style guide contributions |
-| [T-REX](https://github.com/TokenySolutions/T-REX) | -- | Security token compliance framework |
-| [Ithaca](https://github.com/ithacaxyz/account) | -- | Account abstraction primitives |
-| [Ox](https://github.com/wevm/ox) | -- | Ethereum utility library |
+| [Viem](https://github.com/wevm/viem) | 3K | Secp256k1 signature handling |
+| [Solady](https://github.com/Vectorized/solady) | 3K | ERC1155/ERC6909 specification compliance |
+| [Polymarket](https://github.com/Polymarket/polymarket-cli) | 2K | Private key encryption at rest |
+| [Alloy](https://github.com/alloy-rs/alloy) | 1K | Rust Ethereum transport layer |
+| [PMXT](https://github.com/pmxt-dev/pmxt) | 1K | Cross-platform prediction market tooling |
+| [Ethereum Chains](https://github.com/ethereum-lists/chains) | 10K | Registered Integra chain |
+| [Sourcify](https://github.com/argotorg/sourcify) | 900 | Smart contract verification pipeline |
+| [CosmJS](https://github.com/cosmos/cosmjs) | 700 | Multisig public key decoding |
+| [ERCs](https://github.com/ethereum/ERCs) | 700 | Standards authorship and review |
+| [Coinbase](https://github.com/coinbase/solidity-style-guide) | 500 | Solidity conventions |
+| [RareSkills](https://github.com/RareSkills/gas-puzzles) | 500 | Gas optimization challenges |
+| [T-REX](https://github.com/TokenySolutions/T-REX) | 265 | Security token compliance architecture |
+| [Ithaca](https://github.com/ithacaxyz/account) | 318 | Account abstraction design |
+| [Ox](https://github.com/wevm/ox) | 205 | Cryptographic signature fixes |
+| [Biconomy Nexus](https://github.com/bcnmy/nexus) | — | **46 merged PRs** — led smart accounts team |
 
 </details>
 
