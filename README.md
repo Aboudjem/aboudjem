@@ -109,34 +109,35 @@ Not theory. Shipped infrastructure running real money.
 
 <br><br>
 
-<!-- Tier 1: 50K+ stars -->
-<a href="https://github.com/google-gemini/gemini-cli"><img src="https://img.shields.io/badge/Google_Gemini-0A0F1C?style=for-the-badge&logo=google&logoColor=FBBF24" alt="Google Gemini · 99K ★"/></a>
-<a href="https://github.com/microsoft/autogen"><img src="https://img.shields.io/badge/Microsoft_AutoGen-0A0F1C?style=for-the-badge&logo=microsoft&logoColor=7dd3fc" alt="Microsoft AutoGen · 56K ★"/></a>
-<a href="https://github.com/crewAIInc/crewAI"><img src="https://img.shields.io/badge/CrewAI-0A0F1C?style=for-the-badge&logo=openai&logoColor=14B8A6" alt="CrewAI · 47K ★"/></a>
+<!-- Tier 1: 50K+ stars — the big names -->
+<a href="https://github.com/google-gemini/gemini-cli"><img src="https://img.shields.io/badge/Google_Gemini_·_99K_★-0A0F1C?style=for-the-badge&logo=googlegemini&logoColor=FBBF24" alt="Google Gemini"/></a>
+<a href="https://github.com/microsoft/autogen"><img src="https://img.shields.io/badge/Microsoft_AutoGen_·_56K_★-0A0F1C?style=for-the-badge&logo=microsoft&logoColor=7dd3fc" alt="Microsoft AutoGen"/></a>
+<a href="https://github.com/crewAIInc/crewAI"><img src="https://img.shields.io/badge/CrewAI_·_47K_★-0A0F1C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzE0QjhBNiIgZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgM2MxLjY2IDAgMyAxLjM0IDMgM3MtMS4zNCAzLTMgMy0zLTEuMzQtMy0zIDEuMzQtMyAzLTN6bTAgMTQuMmMtMi41IDAtNC43MS0xLjI4LTYtMy4yMi4wMy0xLjk5IDQtMy4wOCA2LTMuMDggMi4wMSAwIDUuOTcgMS4wOSA2IDMuMDgtMS4yOSAxLjk0LTMuNSAzLjIyLTYgMy4yMnoiLz48L3N2Zz4=&logoColor=14B8A6" alt="CrewAI"/></a>
 
 <br>
 
 <!-- Tier 2: 10K-50K stars -->
-<a href="https://github.com/agno-agi/agno"><img src="https://img.shields.io/badge/Agno-0A0F1C?style=for-the-badge&logo=openai&logoColor=86efac" alt="Agno · 39K ★"/></a>
-<a href="https://github.com/OpenZeppelin/openzeppelin-contracts"><img src="https://img.shields.io/badge/OpenZeppelin-0A0F1C?style=for-the-badge&logo=openzeppelin&logoColor=86efac" alt="OpenZeppelin · 27K ★"/></a>
-<a href="https://github.com/mastra-ai/mastra"><img src="https://img.shields.io/badge/Mastra_AI-0A0F1C?style=for-the-badge&logo=openai&logoColor=a78bfa" alt="Mastra · 22K ★"/></a>
-<a href="https://github.com/modelcontextprotocol"><img src="https://img.shields.io/badge/MCP_Protocol-0A0F1C?style=for-the-badge&logo=anthropic&logoColor=f0abfc" alt="MCP · 34K ★"/></a>
+<a href="https://github.com/agno-agi/agno"><img src="https://img.shields.io/badge/Agno_·_39K_★-0A0F1C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzg2ZWZhYyIgZD0iTTEyIDJMMyA3djEwbDkgNSA5LTVWN2wtOS01em0wIDIuMThsNi45MSAzLjgzTDEyIDE5LjY0IDUuMDkgOC4wMSAxMiA0LjE4eiIvPjwvc3ZnPg==&logoColor=86efac" alt="Agno"/></a>
+<a href="https://github.com/OpenZeppelin/openzeppelin-contracts"><img src="https://img.shields.io/badge/OpenZeppelin_·_27K_★-0A0F1C?style=for-the-badge&logo=openzeppelin&logoColor=86efac" alt="OpenZeppelin"/></a>
+<a href="https://github.com/mastra-ai/mastra"><img src="https://img.shields.io/badge/Mastra_·_22K_★-0A0F1C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2E3OGJmYSIgZD0iTTEyIDJMMiAyMmgyMEwxMiAyem0wIDRsNyAxNEg1bDctMTR6Ii8+PC9zdmc+&logoColor=a78bfa" alt="Mastra"/></a>
+<a href="https://github.com/modelcontextprotocol"><img src="https://img.shields.io/badge/MCP_Protocol_·_34K_★-0A0F1C?style=for-the-badge&logo=anthropic&logoColor=f0abfc" alt="MCP Protocol"/></a>
 
 <br>
 
-<!-- Tier 3: 1K-10K stars -->
-<a href="https://github.com/foundry-rs/foundry"><img src="https://img.shields.io/badge/Foundry-0A0F1C?style=for-the-badge&logo=ethereum&logoColor=f0abfc" alt="Foundry · 10K ★"/></a>
-<a href="https://github.com/ethereum-lists/chains"><img src="https://img.shields.io/badge/Ethereum-0A0F1C?style=for-the-badge&logo=ethereum&logoColor=7dd3fc" alt="Ethereum · 10K ★"/></a>
-<a href="https://github.com/smartcontractkit/chainlink"><img src="https://img.shields.io/badge/Chainlink-0A0F1C?style=for-the-badge&logo=chainlink&logoColor=7dd3fc" alt="Chainlink · 8K ★"/></a>
-<a href="https://github.com/cosmos/cosmos-sdk"><img src="https://img.shields.io/badge/Cosmos_SDK-0A0F1C?style=for-the-badge&logo=cosmos&logoColor=a78bfa" alt="Cosmos · 7K ★"/></a>
+<!-- Tier 3: 1K-10K stars — blockchain infra -->
+<a href="https://github.com/foundry-rs/foundry"><img src="https://img.shields.io/badge/Foundry_·_10K_★-0A0F1C?style=for-the-badge&logo=ethereum&logoColor=f0abfc" alt="Foundry"/></a>
+<a href="https://github.com/ethereum/ERCs"><img src="https://img.shields.io/badge/Ethereum_ERCs-0A0F1C?style=for-the-badge&logo=ethereum&logoColor=7dd3fc" alt="Ethereum"/></a>
+<a href="https://github.com/smartcontractkit/chainlink"><img src="https://img.shields.io/badge/Chainlink_·_8K_★-0A0F1C?style=for-the-badge&logo=chainlink&logoColor=7dd3fc" alt="Chainlink"/></a>
+<a href="https://github.com/cosmos/cosmos-sdk"><img src="https://img.shields.io/badge/Cosmos_SDK_·_7K_★-0A0F1C?style=for-the-badge&logo=cosmos&logoColor=a78bfa" alt="Cosmos"/></a>
+<a href="https://github.com/wevm/viem"><img src="https://img.shields.io/badge/Viem_·_3K_★-0A0F1C?style=for-the-badge&logo=ethereum&logoColor=14B8A6" alt="Viem"/></a>
 
 <br>
 
-<a href="https://github.com/wevm/viem"><img src="https://img.shields.io/badge/Viem-0A0F1C?style=for-the-badge&logo=ethereum&logoColor=14B8A6" alt="Viem · 3.4K ★"/></a>
-<a href="https://github.com/Vectorized/solady"><img src="https://img.shields.io/badge/Solady-0A0F1C?style=for-the-badge&logo=ethereum&logoColor=F59E0B" alt="Solady · 3.3K ★"/></a>
-<a href="https://github.com/Polymarket"><img src="https://img.shields.io/badge/Polymarket-0A0F1C?style=for-the-badge&logo=ethereum&logoColor=86efac" alt="Polymarket · 2.7K ★"/></a>
-<a href="https://github.com/bcnmy/nexus"><img src="https://img.shields.io/badge/Biconomy-0A0F1C?style=for-the-badge&logo=ethereum&logoColor=FBBF24" alt="Biconomy"/></a>
-<a href="https://github.com/ethereum/ERCs"><img src="https://img.shields.io/badge/ERCs-0A0F1C?style=for-the-badge&logo=ethereum&logoColor=8B5CF6" alt="ERCs"/></a>
+<a href="https://github.com/Vectorized/solady"><img src="https://img.shields.io/badge/Solady_·_3K_★-0A0F1C?style=for-the-badge&logo=ethereum&logoColor=F59E0B" alt="Solady"/></a>
+<a href="https://github.com/Polymarket/polymarket-cli"><img src="https://img.shields.io/badge/Polymarket_·_2K_★-0A0F1C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzg2ZWZhYyIgc3Ryb2tlLXdpZHRoPSIyIi8+PHBhdGggZD0iTTEyIDdWMTdNNyAxMkgxNyIgc3Ryb2tlPSIjODZlZmFjIiBzdHJva2Utd2lkdGg9IjIiIGZpbGw9Im5vbmUiLz48L3N2Zz4=&logoColor=86efac" alt="Polymarket"/></a>
+<a href="https://github.com/bcnmy/nexus"><img src="https://img.shields.io/badge/Biconomy-0A0F1C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZCQkYyNCIgZD0iTTEyIDJMMyA3bDkgNSA5LTV6TTMgMTdsOSA1IDktNXYtNGwtOSA1LTktNXoiLz48L3N2Zz4=&logoColor=FBBF24" alt="Biconomy"/></a>
+<a href="https://github.com/pmxt-dev/pmxt"><img src="https://img.shields.io/badge/PMXT_·_1K_★-0A0F1C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzE0QjhBNiIgZD0iTTMgM2gxOHYxOEgzeiIgb3BhY2l0eT0iLjIiLz48cGF0aCBmaWxsPSIjMTRCOEE2IiBkPSJNNyA3aDEwdjJIN3ptMCA0aDEwdjJIN3ptMCA0aDZ2Mkg3eiIvPjwvc3ZnPg==&logoColor=14B8A6" alt="PMXT"/></a>
+<a href="https://github.com/wevm/ox"><img src="https://img.shields.io/badge/Ox-0A0F1C?style=for-the-badge&logo=ethereum&logoColor=7dd3fc" alt="Ox"/></a>
 
 <br><br>
 
