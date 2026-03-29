@@ -65,26 +65,72 @@
 
 <table>
 <tr>
-<td align="center" width="80"><a href="https://github.com/OpenZeppelin/openzeppelin-contracts/pull/6397"><img src="https://avatars.githubusercontent.com/u/20820334?s=60" width="48" height="48" alt="OpenZeppelin" /><br><sub><b>OpenZeppelin</b></sub></a></td>
-<td align="center" width="80"><a href="https://github.com/foundry-rs/foundry/pull/13638"><img src="https://avatars.githubusercontent.com/u/99892494?s=60" width="48" height="48" alt="Foundry" /><br><sub><b>Foundry</b></sub></a></td>
-<td align="center" width="80"><a href="https://github.com/google-gemini/gemini-cli/pull/21358"><img src="https://avatars.githubusercontent.com/u/189477781?s=60" width="48" height="48" alt="Gemini" /><br><sub><b>Gemini CLI</b></sub></a></td>
-<td align="center" width="80"><a href="https://github.com/cosmos/evm/pull/1067"><img src="https://avatars.githubusercontent.com/u/31480438?s=60" width="48" height="48" alt="Cosmos" /><br><sub><b>Cosmos EVM</b></sub></a></td>
-<td align="center" width="80"><a href="https://github.com/smartcontractkit/chainlink/pull/21412"><img src="https://avatars.githubusercontent.com/u/37784886?s=60" width="48" height="48" alt="Chainlink" /><br><sub><b>Chainlink</b></sub></a></td>
-<td align="center" width="80"><a href="https://github.com/modelcontextprotocol/typescript-sdk/pull/1637"><img src="https://avatars.githubusercontent.com/u/182288858?s=60" width="48" height="48" alt="MCP" /><br><sub><b>MCP SDK</b></sub></a></td>
+<td align="center" width="150">
+<a href="https://github.com/OpenZeppelin/openzeppelin-contracts/pull/6397"><img src="https://avatars.githubusercontent.com/u/20820676?s=80" width="48" height="48" style="border-radius:50%" alt="OpenZeppelin" /><br><b>OpenZeppelin</b></a><br>
+<sub>NatSpec fix in ERC20FlashMint</sub><br>
+<img src="https://img.shields.io/badge/Merged-3FB950?style=flat-square&labelColor=0D1117" />
+</td>
+<td align="center" width="150">
+<a href="https://github.com/foundry-rs/foundry/pull/13638"><img src="https://avatars.githubusercontent.com/u/99892494?s=80" width="48" height="48" style="border-radius:50%" alt="Foundry" /><br><b>Foundry</b></a><br>
+<sub>Remove redundant tx lookup in Anvil</sub><br>
+<img src="https://img.shields.io/badge/Merged-3FB950?style=flat-square&labelColor=0D1117" />
+</td>
+<td align="center" width="150">
+<a href="https://github.com/google-gemini/gemini-cli/pull/21358"><img src="https://avatars.githubusercontent.com/u/161781182?s=80" width="48" height="48" style="border-radius:50%" alt="Gemini" /><br><b>Gemini CLI</b></a><br>
+<sub>Fix inline data display</sub><br>
+<img src="https://img.shields.io/badge/Merged-3FB950?style=flat-square&labelColor=0D1117" />
+</td>
+<td align="center" width="150">
+<a href="https://github.com/smartcontractkit/chainlink/pull/21412"><img src="https://avatars.githubusercontent.com/u/25111032?s=80" width="48" height="48" style="border-radius:50%" alt="Chainlink" /><br><b>Chainlink</b></a><br>
+<sub>Prevent silent overflow on GasAllocated</sub><br>
+<img src="https://img.shields.io/badge/Open-58A6FF?style=flat-square&labelColor=0D1117" />
+</td>
 </tr>
 <tr>
-<td align="center" width="80"><a href="https://github.com/wevm/ox/pull/189"><img src="https://avatars.githubusercontent.com/u/109633172?s=60" width="48" height="48" alt="wevm" /><br><sub><b>wevm/ox</b></sub></a></td>
-<td align="center" width="80"><a href="https://github.com/Vectorized/solady/pull/1516"><img src="https://avatars.githubusercontent.com/u/8782666?s=60" width="48" height="48" alt="Solady" /><br><sub><b>Solady</b></sub></a></td>
-<td align="center" width="80"><a href="https://github.com/microsoft/autogen/pull/7350"><img src="https://avatars.githubusercontent.com/u/6154722?s=60" width="48" height="48" alt="Microsoft" /><br><sub><b>AutoGen</b></sub></a></td>
-<td align="center" width="80"><a href="https://github.com/agno-agi/agno/pull/6883"><img src="https://avatars.githubusercontent.com/u/73750790?s=60" width="48" height="48" alt="Agno" /><br><sub><b>Agno</b></sub></a></td>
-<td align="center" width="80"><a href="https://github.com/cosmos/cosmjs/pull/1952"><img src="https://avatars.githubusercontent.com/u/31480438?s=60" width="48" height="48" alt="CosmJS" /><br><sub><b>CosmJS</b></sub></a></td>
-<td align="center" width="80"><a href="https://github.com/cosmos/evm"><img src="https://avatars.githubusercontent.com/u/31480438?s=60" width="48" height="48" alt="Cosmos EVM Audit" /><br><sub><b>46 Findings</b></sub></a></td>
+<td align="center" width="150">
+<a href="https://github.com/modelcontextprotocol/typescript-sdk/pull/1637"><img src="https://avatars.githubusercontent.com/u/182288589?s=80" width="48" height="48" style="border-radius:50%" alt="MCP" /><br><b>MCP SDK</b></a><br>
+<sub>Handle 404/406 for SSE streams</sub><br>
+<img src="https://img.shields.io/badge/Open-58A6FF?style=flat-square&labelColor=0D1117" />
+</td>
+<td align="center" width="150">
+<a href="https://github.com/cosmos/evm/pull/1067"><img src="https://avatars.githubusercontent.com/u/228843?s=80" width="48" height="48" style="border-radius:50%" alt="Cosmos" /><br><b>Cosmos EVM</b></a><br>
+<sub>Fix nil pointer deref in RPC</sub><br>
+<img src="https://img.shields.io/badge/Open-58A6FF?style=flat-square&labelColor=0D1117" />
+</td>
+<td align="center" width="150">
+<a href="https://github.com/microsoft/autogen/pull/7350"><img src="https://avatars.githubusercontent.com/u/6154722?s=80" width="48" height="48" style="border-radius:50%" alt="Microsoft" /><br><b>AutoGen</b></a><br>
+<sub>Add Mistral model support</sub><br>
+<img src="https://img.shields.io/badge/Open-58A6FF?style=flat-square&labelColor=0D1117" />
+</td>
+<td align="center" width="150">
+<a href="https://github.com/Vectorized/solady/pull/1516"><img src="https://avatars.githubusercontent.com/u/5889274?s=80" width="48" height="48" style="border-radius:50%" alt="Solady" /><br><b>Solady</b></a><br>
+<sub>Fix NatSpec in ERC1155/ERC6909</sub><br>
+<img src="https://img.shields.io/badge/Open-58A6FF?style=flat-square&labelColor=0D1117" />
+</td>
+</tr>
+<tr>
+<td align="center" width="150">
+<a href="https://github.com/wevm/ox/pull/189"><img src="https://avatars.githubusercontent.com/u/109633172?s=80" width="48" height="48" style="border-radius:50%" alt="wevm" /><br><b>wevm/ox</b></a><br>
+<sub>Fix yParity type mismatch</sub><br>
+<img src="https://img.shields.io/badge/Open-58A6FF?style=flat-square&labelColor=0D1117" />
+</td>
+<td align="center" width="150">
+<a href="https://github.com/agno-agi/agno/pull/6883"><img src="https://avatars.githubusercontent.com/u/104874993?s=80" width="48" height="48" style="border-radius:50%" alt="Agno" /><br><b>Agno</b></a><br>
+<sub>Strip think tags from streaming</sub><br>
+<img src="https://img.shields.io/badge/Open-58A6FF?style=flat-square&labelColor=0D1117" />
+</td>
+<td align="center" width="150">
+<a href="https://github.com/cosmos/cosmjs/pull/1952"><img src="https://avatars.githubusercontent.com/u/228843?s=80" width="48" height="48" style="border-radius:50%" alt="CosmJS" /><br><b>CosmJS</b></a><br>
+<sub>Multisig pubkey decode coverage</sub><br>
+<img src="https://img.shields.io/badge/Open-58A6FF?style=flat-square&labelColor=0D1117" />
+</td>
+<td align="center" width="150">
+<a href="https://github.com/cosmos/evm"><img src="https://avatars.githubusercontent.com/u/228843?s=80" width="48" height="48" style="border-radius:50%" alt="Cosmos EVM" /><br><b>Cosmos EVM</b></a><br>
+<sub>46 audit findings (overflows, OOM, spec)</sub><br>
+<img src="https://img.shields.io/badge/Audit-BC8CFF?style=flat-square&labelColor=0D1117" />
+</td>
 </tr>
 </table>
-
-<div align="center">
-<sub>Merged: OpenZeppelin, Foundry, Gemini CLI &nbsp;|&nbsp; Open: Chainlink, MCP SDK, Cosmos, Solady, AutoGen, Agno, CosmJS, wevm</sub>
-</div>
 
 ---
 
