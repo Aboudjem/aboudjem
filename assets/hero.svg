@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" role="img" aria-labelledby="title desc">
+  <title id="title">Adam Boudjemaa — builder, AI agents, Ethereum standards</title>
+  <desc id="desc">Animated hero banner for the GitHub profile of Adam Boudjemaa.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="50%" stop-color="#0a0a0f"/>
+      <stop offset="100%" stop-color="#0d0d18"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#fde047">
+        <animate attributeName="stop-color"
+                 values="#fde047;#fb923c;#f472b6;#818cf8;#38bdf8;#4ade80;#fde047"
+                 dur="16s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#38bdf8">
+        <animate attributeName="stop-color"
+                 values="#38bdf8;#4ade80;#fde047;#fb923c;#f472b6;#818cf8;#38bdf8"
+                 dur="16s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="0.82" cy="0.15" r="0.6">
+      <stop offset="0%" stop-color="#fde047" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#fde047" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="360" fill="url(#bg)"/>
+  <rect width="1280" height="360" fill="url(#glow)"/>
+
+  <!-- Left accent bar -->
+  <rect x="0" y="0" width="8" height="360" fill="url(#accent)"/>
+
+  <!-- Name -->
+  <text x="80" y="130"
+        font-family="Inter, system-ui, -apple-system, sans-serif"
+        font-size="80" font-weight="900" letter-spacing="-2"
+        fill="#ffffff">Adam Boudjemaa</text>
+
+  <!-- Tagline with typewriter -->
+  <g transform="translate(80, 180)">
+    <text font-family="JetBrains Mono, Menlo, monospace"
+          font-size="28" font-weight="600" fill="#a1a1aa">
+      <tspan fill="url(#accent)">$</tspan>
+      <tspan x="22" dy="0" fill="#e4e4e7"> whoami</tspan>
+    </text>
+  </g>
+
+  <text x="80" y="245"
+        font-family="Inter, system-ui, -apple-system, sans-serif"
+        font-size="26" font-weight="500" fill="#d4d4d8">
+    CTO at Integra. 46 production AI agents. 3 Ethereum standards.
+  </text>
+  <text x="80" y="280"
+        font-family="Inter, system-ui, -apple-system, sans-serif"
+        font-size="26" font-weight="500" fill="#d4d4d8">
+    $28B tokenized. 2,000+ contracts shipped.
+  </text>
+
+  <!-- Animated cursor -->
+  <rect x="80" y="310" width="14" height="24" fill="url(#accent)">
+    <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Right decorative dots -->
+  <g transform="translate(1080, 80)" fill="none" stroke="url(#accent)" stroke-width="1.5" opacity="0.35">
+    <circle cx="60" cy="60" r="40"/>
+    <circle cx="60" cy="60" r="72"/>
+    <circle cx="60" cy="60" r="104"/>
+  </g>
+  <circle cx="1140" cy="140" r="5" fill="url(#accent)">
+    <animate attributeName="r" values="4;7;4" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.9;0.4;0.9" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+</svg>
