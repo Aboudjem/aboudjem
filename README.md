@@ -26,6 +26,25 @@
 
 ---
 
+### Open source
+
+Developer tools I ship and maintain:
+
+| Project | What it does |
+|:--------|:-------------|
+| **[10x](https://github.com/Aboudjem/10x)** | Curated marketplace of Claude Code plugins. Battle-tested, zero bloat |
+| **[sniff](https://github.com/Aboudjem/sniff)** | AI-powered QA testing. Source scan + accessibility + visual regression. Auto-detects your dev server |
+| **[ui-ux-suite](https://github.com/Aboudjem/ui-ux-suite)** | Design audit across 12 dimensions. WCAG 2.1, APCA, OKLCH color science. Zero deps |
+| **[humanizer](https://github.com/Aboudjem/humanizer-skill)** | Detects 37 AI writing patterns, rewrites text with human rhythm and voice |
+
+Install all Claude Code plugins with:
+
+```bash
+claude plugin marketplace add Aboudjem/10x
+```
+
+---
+
 ### The story
 
 42 Paris grad. No CS degree. Went from being completely lost to writing Ethereum standards and building autonomous AI systems for billion-dollar portfolios.
