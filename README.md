@@ -88,6 +88,19 @@ claude plugin install ui-ux-suite@10x
 </td>
 <td width="50%" valign="top">
 
+### [recap-studio](https://github.com/Aboudjem/recap-studio)
+
+Topic or git diff in, mobile-first ADHD-friendly Next.js explainer out. 13 specialist agents, 7-dimension validation board, offline-safe demo.
+
+```bash
+claude plugin install recap-studio@10x
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### [humanizer](https://github.com/Aboudjem/humanizer-skill)
 
 Detects 37 AI writing patterns. Rewrites with human rhythm and voice. Five voice profiles. Drop-in skill for Claude Code.
@@ -97,6 +110,11 @@ mkdir -p ~/.claude/skills/humanizer && \
 curl -sL https://raw.githubusercontent.com/Aboudjem/humanizer-skill/main/skills/humanizer/SKILL.md \
   -o ~/.claude/skills/humanizer/SKILL.md
 ```
+
+</td>
+<td width="50%" valign="top">
+
+&nbsp;
 
 </td>
 </tr>
