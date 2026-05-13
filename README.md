@@ -90,7 +90,7 @@ claude plugin install ui-ux-suite@10x
 
 ### [recap-studio](https://github.com/Aboudjem/recap-studio)
 
-Topic or git diff in, mobile-first ADHD-friendly Next.js explainer out. 13 specialist agents, 7-dimension validation board, offline-safe demo.
+Topic or git diff in, mobile-first Next.js explainer out. 13 specialist agents, 7-dimension validation board, offline-safe demo.
 
 ```bash
 claude plugin install recap-studio@10x
