@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" role="img" aria-labelledby="title desc">
-  <title id="title">Adam Boudjemaa — builder, AI agents, Ethereum standards</title>
+  <title id="title">Adam Boudjemaa, AI engineer and standards author</title>
   <desc id="desc">Animated hero banner for the GitHub profile of Adam Boudjemaa.</desc>
 
   <defs>
@@ -52,12 +52,12 @@
   <text x="80" y="245"
         font-family="Inter, system-ui, -apple-system, sans-serif"
         font-size="26" font-weight="500" fill="#d4d4d8">
-    CTO at Integra. 46 production AI agents. 3 Ethereum standards.
+    Forward Deployed AI Engineer. Author of 4 standards.
   </text>
   <text x="80" y="280"
         font-family="Inter, system-ui, -apple-system, sans-serif"
         font-size="26" font-weight="500" fill="#d4d4d8">
-    $28B tokenized. 2,000+ contracts shipped.
+    $32B+ tokenized on-chain. 11 AI agents in production.
   </text>
 
   <!-- Animated cursor -->

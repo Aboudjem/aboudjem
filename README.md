@@ -1,49 +1,54 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Adam Boudjemaa — CTO at Integra, Ethereum standards co-author, builder of AI agents" width="100%"/>
+  <img src="./assets/hero.svg" alt="Adam Boudjemaa, Forward Deployed AI Engineer, author of 4 standards, builder of production AI agents" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://adam-boudjemaa.com"><img src="https://img.shields.io/badge/website-adam--boudjemaa.com-0a0a0a?style=for-the-badge&logo=safari&logoColor=fde047&labelColor=0a0a0a" alt="Website"/></a>
   <a href="https://linkedin.com/in/adam-boudjemaa/"><img src="https://img.shields.io/badge/linkedin-adam--boudjemaa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/AdamBoudj"><img src="https://img.shields.io/badge/x-@AdamBoudj-0a0a0a?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="mailto:adam@integralayer.com"><img src="https://img.shields.io/badge/email-adam%40integralayer.com-fde047?style=for-the-badge&logo=maildotru&logoColor=0a0a0a&labelColor=0a0a0a" alt="Email"/></a>
+  <a href="mailto:boudjemaa.adam@gmail.com"><img src="https://img.shields.io/badge/email-boudjemaa.adam%40gmail.com-fde047?style=for-the-badge&logo=maildotru&logoColor=0a0a0a&labelColor=0a0a0a" alt="Email"/></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=3400&pause=700&color=FDE047&center=true&vCenter=true&width=900&lines=Production+AI+agents+running+24%2F7;Ethereum+standards+backing+%2428B+in+assets;Layer-1+for+real-world+asset+tokenization;Open-source+developer+tools%2C+zero+dependencies" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=3400&pause=700&color=FDE047&center=true&vCenter=true&width=900&lines=Production+AI+agents+running+24%2F7;Ethereum+standards+backing+%2432B%2B+in+assets;Layer-1+for+real-world+asset+tokenization;Open-source+developer+tools%2C+zero+dependencies" alt="Typing animation"/>
 </p>
 
 ---
 
 ## What I do
 
-I build AI systems that run themselves. I also co-authored 3 Ethereum standards that now back $28B in tokenized assets. No degree. No permission. Just building.
+I build AI systems that run themselves. I authored 4 standards, including ERC-3643, the Ethereum standard now backing $32B+ in tokenized assets. No degree. No permission. Just building.
 
 ## Numbers that matter
 
 <table align="center">
 <tr>
-  <td align="center"><strong>46</strong><br/><sub>AI agents in production</sub></td>
-  <td align="center"><strong>3</strong><br/><sub>ERCs co-authored</sub></td>
-  <td align="center"><strong>2,000+</strong><br/><sub>smart contracts shipped</sub></td>
+  <td align="center"><strong>4</strong><br/><sub>standards authored</sub></td>
+  <td align="center"><strong>$32B+</strong><br/><sub>tokenized on ERC-3643</sub></td>
+  <td align="center"><strong>11</strong><br/><sub>AI agents in production</sub></td>
   <td align="center"><strong>$441M</strong><br/><sub>on-chain transfers managed</sub></td>
 </tr>
 </table>
 
 ## What I'm working on
 
-**CTO at [Integra](https://integralayer.com).** A Layer-1 for tokenizing real-world assets. EVM-compatible. Institutional compliance baked in from day one.
+**Forward Deployed AI Engineer at Ilayer.** A generative-AI automation company. I embed with the client and ship. My biggest engagement: automation for a ~$3B US real-estate private equity fund.
 
-**46 AI agents running live.** Enterprise automation on a $3B+ AUM real estate portfolio. Trading intelligence. Content operations.
+**11 AI agents in production.** RAG on FastAPI and pgvector. About 2TB and 1.4M files across 13 sources, ingested and queryable in plain language. Verified citations, abstention when the evidence is missing. Bank reconciliation went from 8 hours to 23 minutes.
 
-**Ethereum standards I co-authored:**
-- [ERC-3643](https://eips.ethereum.org/EIPS/eip-3643). Compliant security tokens. $28B tokenized to date.
-- [ERC-6960](https://eips.ethereum.org/EIPS/eip-6960). Dual-layer tokens.
-- [ERC-7410](https://eips.ethereum.org/EIPS/eip-7410). Updatable metadata.
+**Before Ilayer, I was CTO of a Layer-1.** [Integra](https://integralayer.com), built on a Cosmos EVM stack fork for real-world-asset tokenization, backed by a $12B+ consortium. I took it from genesis to mainnet launch-ready. The public testnet closed at 600,000 users. I cut the production AWS bill 60%.
+
+**Standards I authored:**
+- [ERC-3643](https://eips.ethereum.org/EIPS/eip-3643). Compliant security tokens. $32B+ tokenized, adopted by Apex Group ($3.5T under administration), cited by name by the SEC Chairman in 2025.
+- [ERC-6960](https://eips.ethereum.org/EIPS/eip-6960). Dual-layer tokens for multi-class real-world assets. First author.
+- [ERC-7410](https://eips.ethereum.org/EIPS/eip-7410). Spender-updatable ERC-20 allowances. Co-author.
+- Agent Authority Protocol. Binds AI agents to their authorized principals. In progress, comment submitted to NIST.
+
+**Open source, merged upstream.** [Gemini CLI](https://github.com/google-gemini/gemini-cli) (Google), [viem](https://github.com/wevm/viem), [Foundry](https://github.com/foundry-rs/foundry), [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts), [CometBFT](https://github.com/cometbft/cometbft), [cosmos/evm](https://github.com/cosmos/evm), the official [ethereum/ERCs](https://github.com/ethereum/ERCs) repo, [smartsessions](https://github.com/erc7579/smartsessions) (ERC-7579 modules), [Sourcify](https://github.com/argotorg/sourcify), and the [staking contract](https://github.com/Fantom-foundation/opera-sfc) of Fantom, now Sonic Labs. #1 contributor to Biconomy's [Nexus](https://github.com/bcnmy/nexus) smart account. [Every merged PR is public](https://github.com/search?q=author%3AAboudjem+is%3Apr+is%3Amerged&type=pullrequests).
 
 ## Open-source tools I ship
 
-Everything below installs in one command via my curated Claude Code plugin marketplace:
+Each of these installs in one command. The Claude Code plugins come from my curated marketplace:
 
 ```bash
 claude plugin marketplace add Aboudjem/10x
@@ -103,12 +108,34 @@ claude plugin install recap-studio@10x
 
 ### [humanizer](https://github.com/Aboudjem/humanizer-skill)
 
-Detects 37 AI writing patterns. Rewrites with human rhythm and voice. Five voice profiles. Drop-in skill for Claude Code.
+Detects 43 AI writing patterns. Rewrites with human rhythm and voice. Five voice profiles. Drop-in skill for Claude Code.
 
 ```bash
-mkdir -p ~/.claude/skills/humanizer && \
-curl -sL https://raw.githubusercontent.com/Aboudjem/humanizer-skill/main/skills/humanizer/SKILL.md \
-  -o ~/.claude/skills/humanizer/SKILL.md
+claude plugin install humanizer@10x
+```
+
+</td>
+<td width="50%" valign="top">
+
+### [goalify](https://github.com/Aboudjem/goalify)
+
+Scopes a big coding task into a self-contained goal file. A fresh agent session runs it to completion, then deletes it on success.
+
+```bash
+claude plugin install goalify@10x
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Sleepless](https://github.com/Aboudjem/Sleepless)
+
+Native macOS menu-bar app that keeps your Mac awake with the lid closed. MIT alternative to Amphetamine, in Swift. Listed on awesome-mac.
+
+```bash
+brew install --cask aboudjem/tap/sleepless
 ```
 
 </td>
