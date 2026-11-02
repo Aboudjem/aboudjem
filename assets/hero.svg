@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" role="img" aria-labelledby="title desc">
-  <title id="title">Adam Boudjemaa, AI engineer and standards author</title>
+  <title id="title">Adam Boudjemaa, Web3 x AI, Ethereum standards author</title>
   <desc id="desc">Animated hero banner for the GitHub profile of Adam Boudjemaa.</desc>
 
   <defs>
@@ -52,12 +52,12 @@
   <text x="80" y="245"
         font-family="Inter, system-ui, -apple-system, sans-serif"
         font-size="26" font-weight="500" fill="#d4d4d8">
-    Forward Deployed AI Engineer. Author of 4 standards.
+    Web3 x AI. Independent, based in France.
   </text>
   <text x="80" y="280"
         font-family="Inter, system-ui, -apple-system, sans-serif"
         font-size="26" font-weight="500" fill="#d4d4d8">
-    $32B+ tokenized on-chain. 11 AI agents in production.
+    ERC-3643, ERC-6960, ERC-7410 author. ERC-8203 in draft.
   </text>
 
   <!-- Animated cursor -->
